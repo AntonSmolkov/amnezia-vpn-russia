@@ -2244,7 +2244,7 @@
     "ip": ""
   },
   {
-    "hostname": "r\u043e\u0441\u043e\u0431\u0440\u043d\u0430\u0434\u0437\u043e\u0440.\u0440\u0444",
+    "hostname": "rособрнадзор.рф",
     "ip": ""
   },
   {
@@ -2988,15 +2988,447 @@
     "ip": ""
   },
   {
-    "hostname": "\u043c\u0438\u043d\u0437\u0434\u0440\u0430\u0432.\u0440\u0444",
+    "hostname": "минздрав.рф",
     "ip": ""
   },
   {
-    "hostname": "\u043c\u0438\u043d\u043e\u0431\u0440\u043d\u0430\u0443\u043a\u0438.\u0440\u0444",
+    "hostname": "минобрнауки.рф",
     "ip": ""
   },
   {
-    "hostname": "\u043c\u0438\u043d\u0442\u0440\u0443\u0434.\u0440\u0444",
+    "hostname": "минтруд.рф",
+    "ip": ""
+  },
+  {
+    "hostname": "fsin.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "sledcom.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "fstek.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "fso.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "culture.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "minsport.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "minstroy.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mnr.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "minjust.gov.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rostehnadzor.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "favt.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "morflot.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "roscosmos.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rosatom.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rostec.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rosoboronexport.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "transneft.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "gazprom.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rosneft.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "lukoil.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "novatek.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "tatneft.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "surgutneftegaz.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "nornickel.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "severstal.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "nlmk.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mmk.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "evraz.com",
+    "ip": ""
+  },
+  {
+    "hostname": "rusal.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "tmk.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "sibur.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "avtovaz.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "lada.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "kamaz.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "uaz.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "gazgroup.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "uvz.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "unicredit.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "citibank.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "ingbank.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "eximbank.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "veb.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rnkb.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "globexbank.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "tinkoff-mobile.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "vkusnoitochka.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "kfc.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "burgerking.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "dodopizza.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "dominos.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "vkusvill.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "av.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "miratorg.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "okey.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "globus.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "verno.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "dixy.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "bristol.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "krasnoeibeloe.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "karusel.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mtt.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "t2.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "sbermobile.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "bmstu.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mpei.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mai.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "mirea.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rudn.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rgsu.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "rggu.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "reshu.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "ege.edu.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "forbes.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "bfm.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "secretmag.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "esquire.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "gq.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "menshealth.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "maximonline.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "newtimes.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "sputniknews.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "inosmi.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "newsru.com",
+    "ip": ""
+  },
+  {
+    "hostname": "rosgosstrakh.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "vsk.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "max.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "renins.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "energogarant.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "guta.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "domofond.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "n1.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "m2.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "move.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "elbrus.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "altlinux.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "nanocad.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "basealt.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "img.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "deti.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "sportmail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "auto.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "hi-tech.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "lady.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "health.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "tv.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "torg.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "pogoda.mail.ru",
+    "ip": ""
+  },
+  {
+    "hostname": "gorod.mail.ru",
     "ip": ""
   }
 ]
