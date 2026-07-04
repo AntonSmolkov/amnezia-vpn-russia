@@ -1,5 +1,10 @@
 # 🇷🇺 Amnezia VPN: Раздельное туннелирование (Split Tunneling) для российских сайтов
 
+> 🔥 **Ищете надежный VPN, который точно работает в России?**  
+> Обратите внимание на мой новый проект: **[Awesome VPN Russia 🇷🇺](https://github.com/kozlovartem20201/awesome-vpn-list-russia)**.  
+> Это самый полный и актуальный список работающих VPN-сервисов для обхода блокировок Роскомнадзора (2025–2026). Там собраны проверенные коммерческие сервисы, open-source решения (включая саму Amnezia) и бесплатные инструменты с поддержкой современных протоколов обфускации (AmneziaWG, VLESS, Shadowsocks).  
+> 👉 **[Перейти к списку лучших VPN для России](https://github.com/kozlovartem20201/awesome-vpn-list-russia)**
+
 ![Amnezia VPN Russia tunneling list](https://i.postimg.cc/zBWyXJ6Q/fuck-roskomnadzor-amnezia-vpn.jpg)
 
 **Как обойти блокировки Роскомнадзора, сохранить доступ к Госуслугам и Сбербанку, и перестать выключать VPN каждую минуту.**
