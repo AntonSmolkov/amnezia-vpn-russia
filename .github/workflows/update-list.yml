@@ -1,0 +1,55 @@
+name: Обновление списка
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # каждый понедельник, 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "sources/**"
+      - "scripts/**"
+      - ".github/workflows/update-list.yml"
+  pull_request:
+    paths:
+      - "sources/**"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Сборка tunneling-list.json
+        run: python scripts/build.py --report build-report.md
+
+      - name: Отчёт
+        if: always()
+        run: |
+          if [ -f build-report.md ]; then cat build-report.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - name: Коммит изменений
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tunneling-list.json ru-subnets.txt
+          if git diff --cached --quiet; then
+            echo "Список не изменился"
+            exit 0
+          fi
+          git commit -m "Автообновление списка $(date -u +%Y-%m-%d)"
+          git push

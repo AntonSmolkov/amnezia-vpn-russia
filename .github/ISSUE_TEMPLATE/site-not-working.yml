@@ -1,0 +1,54 @@
+name: Сайт не открывается / нужно добавить домен
+description: Российский сайт не работает с включённым VPN и раздельным туннелированием
+labels: ["site-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Перед отправкой проверьте:
+        1. Вы скачали **свежий** `tunneling-list.json` и импортировали его через «Заменить список с сайтами».
+        2. В режиме выбрано «Адреса из списка не должны открываться через VPN».
+        3. На странице https://yandex.ru/internet при включённом VPN виден IP вашего провайдера, а не сервера.
+  - type: input
+    id: domain
+    attributes:
+      label: Домен
+      description: Адрес сайта, который не открывается
+      placeholder: zakupki.gov.ru
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что происходит
+      description: Бесконечная загрузка, капча, «доступ из-за рубежа запрещён», ошибка в приложении…
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Версия Amnezia VPN
+      placeholder: 5.0.3.0
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа
+      options: [Windows, macOS, Linux, Android, iOS]
+    validations:
+      required: true
+  - type: dropdown
+    id: protocol
+    attributes:
+      label: Протокол
+      options: [AmneziaWG, WireGuard, XRay / VLESS, OpenVPN / Cloak, Shadowsocks, Другой]
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Где не работает
+      options: [В браузере, В мобильном приложении сервиса, И там, и там]
+    validations:
+      required: true

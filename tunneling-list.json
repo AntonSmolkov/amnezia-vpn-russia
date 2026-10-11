@@ -1,3434 +1,7958 @@
 [
   {
     "hostname": "100ballnik.com",
-    "ip": ""
+    "ip": "185.178.208.151",
+    "ips": [
+      "185.178.208.151"
+    ]
   },
   {
     "hostname": "101hotels.com",
-    "ip": ""
+    "ip": "78.155.198.133",
+    "ips": [
+      "78.155.198.133"
+    ]
   },
   {
     "hostname": "116.ru",
-    "ip": ""
+    "ip": "195.19.220.26",
+    "ips": [
+      "195.19.220.26"
+    ]
   },
   {
     "hostname": "161.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "1c-fresh.com",
-    "ip": ""
-  },
-  {
-    "hostname": "1c.com",
-    "ip": ""
+    "ip": "195.19.220.26",
+    "ips": [
+      "195.19.220.26"
+    ]
   },
   {
     "hostname": "1c.ru",
-    "ip": ""
+    "ip": "185.12.152.144",
+    "ips": [
+      "185.12.152.144"
+    ]
   },
   {
     "hostname": "1tv.ru",
-    "ip": ""
+    "ip": "178.248.233.188",
+    "ips": [
+      "178.248.233.188"
+    ]
   },
   {
     "hostname": "29.ru",
-    "ip": ""
+    "ip": "195.19.220.26",
+    "ips": [
+      "195.19.220.26"
+    ]
   },
   {
     "hostname": "2gis.com",
-    "ip": ""
+    "ip": "91.236.51.50",
+    "ips": [
+      "91.236.51.50"
+    ]
   },
   {
     "hostname": "2gis.ru",
-    "ip": ""
+    "ip": "91.236.51.50",
+    "ips": [
+      "91.236.51.50",
+      "95.129.232.210"
+    ]
   },
   {
     "hostname": "2x2tv.ru",
-    "ip": ""
+    "ip": "185.71.67.137",
+    "ips": [
+      "185.71.67.137"
+    ]
   },
   {
     "hostname": "360.yandex.ru",
-    "ip": ""
+    "ip": "87.250.250.16",
+    "ips": [
+      "87.250.250.16"
+    ]
   },
   {
     "hostname": "360tv.ru",
-    "ip": ""
+    "ip": "46.21.255.170",
+    "ips": [
+      "46.21.255.170"
+    ]
   },
   {
     "hostname": "366.ru",
-    "ip": ""
+    "ip": "185.71.64.131",
+    "ips": [
+      "185.71.64.131"
+    ]
   },
   {
     "hostname": "4ege.ru",
-    "ip": ""
+    "ip": "185.135.83.235",
+    "ips": [
+      "185.135.83.235"
+    ]
   },
   {
     "hostname": "5-tv.ru",
-    "ip": ""
+    "ip": "91.215.42.192",
+    "ips": [
+      "91.215.42.192"
+    ]
   },
   {
     "hostname": "59.ru",
-    "ip": ""
+    "ip": "195.19.220.27",
+    "ips": [
+      "195.19.220.27"
+    ]
   },
   {
     "hostname": "5ka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "5post.ru",
-    "ip": ""
+    "ip": "91.221.164.42",
+    "ips": [
+      "91.221.164.42"
+    ]
   },
   {
     "hostname": "63.ru",
-    "ip": ""
+    "ip": "195.19.220.27",
+    "ips": [
+      "195.19.220.27"
+    ]
   },
   {
     "hostname": "72.ru",
-    "ip": ""
+    "ip": "195.19.220.27",
+    "ips": [
+      "195.19.220.27"
+    ]
   },
   {
     "hostname": "74.ru",
-    "ip": ""
+    "ip": "195.19.220.23",
+    "ips": [
+      "195.19.220.23"
+    ]
   },
   {
     "hostname": "76.ru",
-    "ip": ""
+    "ip": "195.19.220.26",
+    "ips": [
+      "195.19.220.26"
+    ]
   },
   {
     "hostname": "93.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "abbyy.com",
-    "ip": ""
+    "ip": "195.19.220.26",
+    "ips": [
+      "195.19.220.26"
+    ]
   },
   {
     "hostname": "absolutbank.ru",
-    "ip": ""
+    "ip": "194.190.0.220",
+    "ips": [
+      "194.190.0.220"
+    ]
+  },
+  {
+    "hostname": "account.mail.ru",
+    "ip": "94.100.180.61",
+    "ips": [
+      "94.100.180.61",
+      "217.69.139.61"
+    ]
   },
   {
     "hostname": "acm.timus.ru",
-    "ip": ""
+    "ip": "212.193.69.18",
+    "ips": [
+      "212.193.69.18"
+    ]
   },
   {
     "hostname": "acra-ratings.ru",
-    "ip": ""
+    "ip": "81.22.46.142",
+    "ips": [
+      "81.22.46.142"
+    ]
   },
   {
     "hostname": "aeroflot.ru",
-    "ip": ""
+    "ip": "37.220.161.51",
+    "ips": [
+      "37.220.161.51",
+      "37.220.163.9",
+      "195.209.66.33",
+      "195.209.82.84",
+      "195.209.82.227",
+      "212.193.153.14"
+    ]
   },
   {
     "hostname": "afisha.ru",
-    "ip": ""
+    "ip": "81.19.92.84",
+    "ips": [
+      "81.19.92.84",
+      "81.19.92.85",
+      "81.19.92.86"
+    ]
   },
   {
     "hostname": "afisha.yandex.ru",
-    "ip": ""
+    "ip": "213.180.193.71",
+    "ips": [
+      "213.180.193.71",
+      "213.180.204.242"
+    ]
   },
   {
     "hostname": "aif.ru",
-    "ip": ""
+    "ip": "91.214.119.200",
+    "ips": [
+      "91.214.119.200",
+      "91.214.119.234"
+    ]
   },
   {
     "hostname": "airflot.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "akamaized.net",
-    "ip": ""
+    "ip": "185.135.83.132",
+    "ips": [
+      "185.135.83.132"
+    ]
   },
   {
     "hostname": "akbars.ru",
-    "ip": ""
+    "ip": "217.198.15.72",
+    "ips": [
+      "217.198.15.72"
+    ]
   },
   {
     "hostname": "alfa.bank",
-    "ip": ""
+    "ip": "217.12.104.100",
+    "ips": [
+      "217.12.104.100"
+    ]
   },
   {
     "hostname": "alfabank.ru",
-    "ip": ""
+    "ip": "217.12.104.100",
+    "ips": [
+      "217.12.104.100"
+    ]
   },
   {
     "hostname": "alfadirect.ru",
-    "ip": ""
+    "ip": "217.12.96.64",
+    "ips": [
+      "217.12.96.64"
+    ]
   },
   {
     "hostname": "alfastrah.ru",
-    "ip": ""
+    "ip": "178.248.234.43",
+    "ips": [
+      "178.248.234.43",
+      "185.65.151.250"
+    ]
   },
   {
     "hostname": "algoritmika.org",
-    "ip": ""
+    "ip": "178.248.235.86",
+    "ips": [
+      "178.248.235.86"
+    ]
   },
   {
     "hostname": "alice.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "aliexpress.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "am.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "amediateka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "anywayanyday.com",
-    "ip": ""
-  },
-  {
-    "hostname": "apteka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "arbitr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "argumenti.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "argumentiru.com",
-    "ip": ""
-  },
-  {
-    "hostname": "asna.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "astral.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "astralinux.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "auchan.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "auto.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "autodoc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "autoscout24.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "aviasales.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "avito.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "avtodor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "avtokod.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "azimuth.aero",
-    "ip": ""
-  },
-  {
-    "hostname": "baikal-electronics.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "banki.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bankrot.fedresurs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "base.garant.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bcs-express.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bcs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "beeline-cloud.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "beeline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "befree.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "beget.com",
-    "ip": ""
-  },
-  {
-    "hostname": "beru.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bi.zone",
-    "ip": ""
-  },
-  {
-    "hostname": "bibika.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "biletix.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bio.rt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bitrix24.com",
-    "ip": ""
-  },
-  {
-    "hostname": "bitrix24.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "booking.com",
-    "ip": ""
-  },
-  {
-    "hostname": "bookmate.com",
-    "ip": ""
-  },
-  {
-    "hostname": "boom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "boomstream.com",
-    "ip": ""
-  },
-  {
-    "hostname": "boxberry.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bronevik.com",
-    "ip": ""
-  },
-  {
-    "hostname": "browser.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bspb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "busuu.com",
-    "ip": ""
-  },
-  {
-    "hostname": "carprice.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cbr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cdek.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "championat.com",
-    "ip": ""
-  },
-  {
-    "hostname": "checker.kontur.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "chizhik.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cian.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "citilab.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "citilink.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "citymobil.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cloud.mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cloud.rt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cloud.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "clt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cmd-online.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "coddy.academy",
-    "ip": ""
-  },
-  {
-    "hostname": "codeby.school",
-    "ip": ""
-  },
-  {
-    "hostname": "codeforces.com",
-    "ip": ""
-  },
-  {
-    "hostname": "codewars.com",
-    "ip": ""
-  },
-  {
-    "hostname": "codland.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "consultant.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "continent.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "council.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "coursera.org",
-    "ip": ""
-  },
-  {
-    "hostname": "cpm.edu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "crediteurope.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "croc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cryptopro.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cse.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cska.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ctc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "customs.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "customs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "cyberleninka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "decathlon.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "delivery-club.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "delivery.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dellin.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "detmir.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dhl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "diadoc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "diasoft.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "digital.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "disk.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dnevnik.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dns-shop.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "docdoc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "doktor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dom-kino.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "dom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "domclick.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "domrf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "domrfbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "domru.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dpd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "drom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "drweb.com",
-    "ip": ""
-  },
-  {
-    "hostname": "drweb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dtf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "duma.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "duolingo.com",
-    "ip": ""
-  },
-  {
-    "hostname": "dzen.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "e-kontur.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "e-olymp.com",
-    "ip": ""
-  },
-  {
-    "hostname": "e-osago.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "e-yakutia.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "e1.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "e96.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eaisto.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eapteka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "echo.msk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "economy.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eda.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "edu.gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "edu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "education.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "edx.org",
-    "ip": ""
-  },
-  {
-    "hostname": "ege.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "egrn.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "egrul.nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eldorado.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "elibrary.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eltex-co.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eltex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "emcmos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "emex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "emias.info",
-    "ip": ""
-  },
-  {
-    "hostname": "emspost.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "englex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "englishdom.com",
-    "ip": ""
-  },
-  {
-    "hostname": "epam.com",
-    "ip": ""
-  },
-  {
-    "hostname": "epgu.gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "er-telecom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "es.pfrf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "esia.gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "etagi.com",
-    "ip": ""
-  },
-  {
-    "hostname": "euroset.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "exist.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "expobank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fa.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "farmani.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "farpost.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fas.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fcdynamo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fedresurs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fgisegisso.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "film.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "finam.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fipi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fips.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fivepost.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fix-price.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "flightradar24.com",
-    "ip": ""
-  },
-  {
-    "hostname": "fns.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fontanka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "foxford.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "freelance.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fsa.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fssp.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fts.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "games.mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "garant.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gazeta.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gazprombank.com",
-    "ip": ""
-  },
-  {
-    "hostname": "gazprombank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gdeposylka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "geekbrains.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gemotest.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gett.com",
-    "ip": ""
-  },
-  {
-    "hostname": "gibdd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gismeteo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gks.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gloria-jeans.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "go.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "goldapple.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "goods.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gorzdrav.org",
-    "ip": ""
-  },
-  {
-    "hostname": "gosapteka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gosfinance.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "goskey.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gost.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gostech.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gosuslugi66.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "government.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gpb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "group-ib.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gtd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "habr.com",
-    "ip": ""
-  },
-  {
-    "hostname": "headhunter.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "health.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "helix.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "henderson.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hermes.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hexlet.io",
-    "ip": ""
-  },
-  {
-    "hostname": "hh.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "holodilnik.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "homecredit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hosting.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hotellook.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hotels.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "hse.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "htmlacademy.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "id.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ideco.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "iledebeaute.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "incom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "indriver.com",
-    "ip": ""
-  },
-  {
-    "hostname": "informatics.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "infosystems.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "infotecs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "infourok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "infowatch.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ingos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "interfax.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "interneturok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "investfunds.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "invitro.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "iraero.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "irr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "iss.moex.com",
-    "ip": ""
-  },
-  {
-    "hostname": "italki.com",
-    "ip": ""
-  },
-  {
-    "hostname": "itmo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ivi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "iz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "jetbrains.com",
-    "ip": ""
-  },
-  {
-    "hostname": "joom.com",
-    "ip": ""
-  },
-  {
-    "hostname": "kad.arbitr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kaluga-astral.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kari.com",
-    "ip": ""
-  },
-  {
-    "hostname": "kasko.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kaspersky.com",
-    "ip": ""
-  },
-  {
-    "hostname": "kaspersky.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kazanexpress.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kcentr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kdl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kfu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "khan-academy.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "khanacademy.org",
-    "ip": ""
-  },
-  {
-    "hostname": "khl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kino-teatr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kino.mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kinopoisk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kinorium.com",
-    "ip": ""
-  },
-  {
-    "hostname": "kion.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kolesa.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kommersant.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kontur.extern",
-    "ip": ""
-  },
-  {
-    "hostname": "kontur.focus",
-    "ip": ""
-  },
-  {
-    "hostname": "kontur.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kp.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kremlin.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ksrf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ktk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kubsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kuper.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kupibilet.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kwork.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "labquest.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lamoda.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lanit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lavka.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "leader-id.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "leetcode.com",
-    "ip": ""
-  },
-  {
-    "hostname": "lektorium.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "lenta.com",
-    "ip": ""
-  },
-  {
-    "hostname": "lenta.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "leroymerlin.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "letual.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "life.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lingualeo.com",
-    "ip": ""
-  },
-  {
-    "hostname": "lit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "litres.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lk.gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lkfl.nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lknpd.nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lkul.nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "locker.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lockobank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "logsis.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lokomotiv.info",
-    "ip": ""
-  },
-  {
-    "hostname": "lsgeotar.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "luxoft.com",
-    "ip": ""
-  },
-  {
-    "hostname": "magnit-market.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "magnit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mail.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "major-express.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mango-office.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "maps.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "market.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "matchtv.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "maxim-service.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mchs.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mcst.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "medi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "medicina.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "medportal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "medrocket.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "medsi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "meduza.io",
-    "ip": ""
-  },
-  {
-    "hostname": "megafon.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "megamarket.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mephi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mes.edu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "metro-cc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mgimo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mgpu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mgts.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minenergo.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minfin.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minobr.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minobrnauki.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minobrnauki.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minpromtorg.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mintrans.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mintrud.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minzdrav.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mipt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mirkvartir.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mironline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mirpay.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mkb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "modulbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "moex.com",
-    "ip": ""
-  },
-  {
-    "hostname": "moex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "momondo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "money.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "more.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "mos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "motiv-t.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "msu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mts-bank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mts-connect.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mts-link.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mts.online",
-    "ip": ""
-  },
-  {
-    "hostname": "mts.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mtsbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "multiurok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "music.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "muz-tv.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mvd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mvideo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mvno.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "my.mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mybook.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "myoffice.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nalog.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nano-sec.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "napopravku.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nashekino.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "netbynet.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "netology.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "news.mail.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "news.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "news.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ng.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ngs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nhl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nkr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nlr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nntv.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nordwindairlines.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "norsi-trans.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "novayagazeta.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "novikombank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "novofon.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "novostroy.su",
-    "ip": ""
-  },
-  {
-    "hostname": "nrg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nsd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nspk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nsportal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nstu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ntv.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ntvplus.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "obrnadzor.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ofd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "okko.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "olimpiada.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "onclinic.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "onetwotrip.com",
-    "ip": ""
-  },
-  {
-    "hostname": "onlime.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "onlinetrade.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "open-broker.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "open.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "openedu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "orion.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "osago-online.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ostrovok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "otkritie.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "otpbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ozon.com",
-    "ip": ""
-  },
-  {
-    "hostname": "ozon.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "p7-office.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pass.rzd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pedsovet.su",
-    "ip": ""
-  },
-  {
-    "hostname": "pek.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "perekrestok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "petersburgedu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pfr.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pfrf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pgu.mos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pgu.spb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pharmeconomics.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pickpoint.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pikabu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "piluli.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "platformaofd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "platon.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pobeda.aero",
-    "ip": ""
-  },
-  {
-    "hostname": "pochta.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pochtabank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pokupki.market.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "positive-tech.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "postamat.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "postupi.online",
-    "ip": ""
-  },
-  {
-    "hostname": "posylka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "practicum.com",
-    "ip": ""
-  },
-  {
-    "hostname": "practicum.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "pravo.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "premier.one",
-    "ip": ""
-  },
-  {
-    "hostname": "preply.com",
-    "ip": ""
-  },
-  {
-    "hostname": "price.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "privetmir.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "prodoctorov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "profi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "promsvyazbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "psbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "psu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ptsecurity.com",
-    "ip": ""
-  },
-  {
-    "hostname": "puzzle-english.com",
-    "ip": ""
-  },
-  {
-    "hostname": "qdelivery.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "qiwi.com",
-    "ip": ""
-  },
-  {
-    "hostname": "qiwi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "r7-office.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rabota.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "radiomayak.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "raiffeisen.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rambler.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "randewoo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ranepa.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rbc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rbk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rea.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "realty.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "redos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "redwings.aero",
-    "ip": ""
-  },
-  {
-    "hostname": "reg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "reksoft.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ren.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "renaissance.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rencredit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rendez-vous.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "republic.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "resh.edu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "reshuege.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "reso.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "respect-shoes.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rfpl.org",
-    "ip": ""
-  },
-  {
-    "hostname": "rg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rgs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ria.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rigla.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rkn.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rlsnet.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rocketbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosa.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosagroleasing.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosavtodor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "roscap.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "roseltorg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosminzdrav.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosmolodezh.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosnedra.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rospatent.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rospotrebnadzor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosreestr.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosreestr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rossiya-airlines.com",
-    "ip": ""
-  },
-  {
-    "hostname": "rosstat.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rostelecom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rostransnadzor.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rpl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rpn.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rsa.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rshb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rshbins.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rsl.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rt-solar.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rt.com",
-    "ip": ""
-  },
-  {
-    "hostname": "rt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ru.aliexpress.com",
-    "ip": ""
-  },
-  {
-    "hostname": "ru.iherb.com",
-    "ip": ""
-  },
-  {
-    "hostname": "ruptec.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rusfootball.info",
-    "ip": ""
-  },
-  {
-    "hostname": "ruskino.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rusprofile.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "russia-1.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "russia-24.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "russia.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "russian.rt.com",
-    "ip": ""
-  },
-  {
-    "hostname": "russianpost.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rutube.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rzd-bonus.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rzd-partner.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rzd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rособрнадзор.рф",
-    "ip": ""
-  },
-  {
-    "hostname": "s7.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "samokat.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "samsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sapsan.com",
-    "ip": ""
-  },
-  {
-    "hostname": "sber.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sber.zvuk.com",
-    "ip": ""
-  },
-  {
-    "hostname": "sberbank-ast.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberbank.com",
-    "ip": ""
-  },
-  {
-    "hostname": "sberbank.online",
-    "ip": ""
-  },
-  {
-    "hostname": "sberbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberbusiness.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbercloud.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbereats.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberhealth.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberinsurance.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberinvestor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberleasing.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbermarket.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbermegamarket.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberonline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sberpay.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbertech.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbis.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbp.nspk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "school.mosreg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sdamgia.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sdek.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "searchinform.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "selectel.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "service.nalog.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sfedu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sferabank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sfr.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "shiptor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sip.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sipuni.com",
-    "ip": ""
-  },
-  {
-    "hostname": "skillbox.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "skyeng.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "skylink.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "skyscanner.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sm-clinic.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "smartavia.com",
-    "ip": ""
-  },
-  {
-    "hostname": "smotrim.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "snob.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sobesednik.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "soc.fund",
-    "ip": ""
-  },
-  {
-    "hostname": "softline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sogaz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sovcombank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spark-interfax.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spartak.com",
-    "ip": ""
-  },
-  {
-    "hostname": "spbex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spbexchange.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spbstu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spbtv.com",
-    "ip": ""
-  },
-  {
-    "hostname": "spbu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sport-express.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sportbox.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sportmaster.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sports.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "spsr.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sravni.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ssau.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "start.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "stepik.org",
-    "ip": ""
-  },
-  {
-    "hostname": "stolichki.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "storytel.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "superjob.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sutochno.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "svetofor.com",
-    "ip": ""
-  },
-  {
-    "hostname": "svyaznoy.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "synerdocs.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tabletka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "takzdorovo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tass.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "taxcom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "taxi.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "technopark.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tele2.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tensor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "thebell.io",
-    "ip": ""
-  },
-  {
-    "hostname": "ticket.rzd.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "timeweb.com",
-    "ip": ""
-  },
-  {
-    "hostname": "timeweb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tinkoff.com",
-    "ip": ""
-  },
-  {
-    "hostname": "tinkoff.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tinkoffinsurance.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tjournal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tmall.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tnt-online.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tochka.com",
-    "ip": ""
-  },
-  {
-    "hostname": "torgi.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tpu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "track24.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "trackitonline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "translate.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "transport.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "travel.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tricolor.tv",
-    "ip": ""
-  },
-  {
-    "hostname": "trip.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "trivago.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ttk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tutu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tvc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tvzvezda.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uber.com",
-    "ip": ""
-  },
-  {
-    "hostname": "ucheba.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uchi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uchitelya.com",
-    "ip": ""
-  },
-  {
-    "hostname": "udmurt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "udsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ufanet.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uralairlines.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uralsib.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "urent.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "urfu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "userapi.com",
-    "ip": ""
-  },
-  {
-    "hostname": "usergate.com",
-    "ip": ""
-  },
-  {
-    "hostname": "uslugi.tatarstan.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "utair.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vciom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vedomosti.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vesti.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vgtrk.com",
-    "ip": ""
-  },
-  {
-    "hostname": "vidal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "video.ok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "videouroki.net",
-    "ip": ""
-  },
-  {
-    "hostname": "vipnet.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vk-cdn.net",
-    "ip": ""
-  },
-  {
-    "hostname": "vk.com",
-    "ip": ""
-  },
-  {
-    "hostname": "vk.company",
-    "ip": ""
-  },
-  {
-    "hostname": "vk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkontakte.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkplay.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkteams.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkvideo.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "volnamobile.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vprok.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vseinstrumenti.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vsrf.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vtb-capital.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vtb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vtb24.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vtbins.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vtbleasing.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vuzopedia.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "wb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "weather.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "webmoney.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "wer.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "whoosh.bike",
-    "ip": ""
-  },
-  {
-    "hostname": "wifire.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "wildberries.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "wink.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "x5.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ya.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yadro.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yaklass.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yakutia.aero",
-    "ip": ""
-  },
-  {
-    "hostname": "yandex-lyceum.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yandex.cloud",
-    "ip": ""
-  },
-  {
-    "hostname": "yandex.com",
-    "ip": ""
-  },
-  {
-    "hostname": "yandex.net",
-    "ip": ""
-  },
-  {
-    "hostname": "yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yandexcloud.net",
-    "ip": ""
-  },
-  {
-    "hostname": "yastatic.net",
-    "ip": ""
-  },
-  {
-    "hostname": "yoomoney.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "yota.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "youdo.com",
-    "ip": ""
-  },
-  {
-    "hostname": "youla.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zadarma.com",
-    "ip": ""
-  },
-  {
-    "hostname": "zakupki.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zara.com",
-    "ip": ""
-  },
-  {
-    "hostname": "zarplata.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zdrav.gosuslugi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zdrav.mos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zdravcity.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zebra-telecom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zen.yandex.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zenit.bank",
-    "ip": ""
-  },
-  {
-    "hostname": "zenit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "zvuk.com",
-    "ip": ""
-  },
-  {
-    "hostname": "минздрав.рф",
-    "ip": ""
-  },
-  {
-    "hostname": "минобрнауки.рф",
-    "ip": ""
-  },
-  {
-    "hostname": "минтруд.рф",
-    "ip": ""
-  },
-  {
-    "hostname": "fsin.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sledcom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fstek.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "fso.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "culture.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minsport.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minstroy.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mnr.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "minjust.gov.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rostehnadzor.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "favt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "morflot.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "roscosmos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosatom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rostec.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosoboronexport.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "transneft.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gazprom.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rosneft.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lukoil.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "novatek.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tatneft.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "surgutneftegaz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nornickel.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "severstal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "nlmk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mmk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "evraz.com",
-    "ip": ""
-  },
-  {
-    "hostname": "rusal.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tmk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sibur.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "avtovaz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "lada.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kamaz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uaz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gazgroup.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "uvz.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "unicredit.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "citibank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ingbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "eximbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "veb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rnkb.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "globexbank.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "tinkoff-mobile.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkusnoitochka.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "kfc.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "burgerking.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dodopizza.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dominos.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vkusvill.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "av.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "miratorg.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "okey.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "globus.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "verno.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "dixy.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bristol.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "krasnoeibeloe.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "karusel.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mtt.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "t2.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sbermobile.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bmstu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mpei.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mai.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "mirea.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rudn.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rgsu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "rggu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "reshu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "ege.edu.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "forbes.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "bfm.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "secretmag.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "esquire.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "gq.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "menshealth.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "maximonline.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "newtimes.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "sputniknews.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "inosmi.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "newsru.com",
-    "ip": ""
-  },
-  {
-    "hostname": "rosgosstrakh.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "vsk.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "max.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "renins.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "energogarant.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "guta.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "domofond.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "n1.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "m2.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "move.ru",
-    "ip": ""
-  },
-  {
-    "hostname": "elbrus.ru",
-    "ip": ""
+    "ip": "213.180.193.143",
+    "ips": [
+      "213.180.193.143"
+    ]
   },
   {
     "hostname": "altlinux.ru",
-    "ip": ""
+    "ip": "194.107.17.163",
+    "ips": [
+      "194.107.17.163"
+    ]
   },
   {
-    "hostname": "nanocad.ru",
-    "ip": ""
+    "hostname": "am.ru",
+    "ip": "95.163.50.88",
+    "ips": [
+      "95.163.50.88"
+    ]
   },
   {
-    "hostname": "basealt.ru",
-    "ip": ""
+    "hostname": "amediateka.ru",
+    "ip": "37.220.162.60",
+    "ips": [
+      "37.220.162.60",
+      "46.235.185.55",
+      "46.235.189.170",
+      "212.193.152.57",
+      "212.193.153.218",
+      "212.193.155.190",
+      "212.193.157.85"
+    ]
   },
   {
-    "hostname": "img.mail.ru",
-    "ip": ""
+    "hostname": "api.oneme.ru",
+    "ip": "155.212.204.90",
+    "ips": [
+      "155.212.204.90",
+      "155.212.204.150",
+      "155.212.204.194"
+    ]
   },
   {
-    "hostname": "deti.mail.ru",
-    "ip": ""
+    "hostname": "apteka.ru",
+    "ip": "178.248.238.97",
+    "ips": [
+      "178.248.238.97",
+      "178.248.238.163"
+    ]
   },
   {
-    "hostname": "sportmail.ru",
-    "ip": ""
+    "hostname": "arbitr.ru",
+    "ip": "95.167.220.237",
+    "ips": [
+      "95.167.220.237"
+    ]
+  },
+  {
+    "hostname": "argumenti.ru",
+    "ip": "109.234.158.166",
+    "ips": [
+      "109.234.158.166"
+    ]
+  },
+  {
+    "hostname": "argumentiru.com",
+    "ip": "77.244.222.74",
+    "ips": [
+      "77.244.222.74"
+    ]
+  },
+  {
+    "hostname": "asna.ru",
+    "ip": "185.163.159.166",
+    "ips": [
+      "185.163.159.166"
+    ]
+  },
+  {
+    "hostname": "astral.ru",
+    "ip": "185.253.34.10",
+    "ips": [
+      "185.253.34.10"
+    ]
+  },
+  {
+    "hostname": "astralinux.ru",
+    "ip": "84.201.172.233",
+    "ips": [
+      "84.201.172.233"
+    ]
+  },
+  {
+    "hostname": "auchan.ru",
+    "ip": "178.248.232.180",
+    "ips": [
+      "178.248.232.180"
+    ]
   },
   {
     "hostname": "auto.mail.ru",
-    "ip": ""
+    "ip": "95.163.61.113",
+    "ips": [
+      "95.163.61.113"
+    ]
   },
   {
-    "hostname": "hi-tech.mail.ru",
-    "ip": ""
+    "hostname": "auto.ru",
+    "ip": "51.250.126.110",
+    "ips": [
+      "51.250.126.110",
+      "84.201.184.215"
+    ]
   },
   {
-    "hostname": "lady.mail.ru",
-    "ip": ""
+    "hostname": "autodoc.ru",
+    "ip": "37.230.209.135",
+    "ips": [
+      "37.230.209.135"
+    ]
   },
   {
-    "hostname": "health.mail.ru",
-    "ip": ""
+    "hostname": "autoins.ru",
+    "ip": "90.156.206.245",
+    "ips": [
+      "90.156.206.245"
+    ]
   },
   {
-    "hostname": "tv.mail.ru",
-    "ip": ""
+    "hostname": "av.ru",
+    "ip": "109.238.90.194",
+    "ips": [
+      "109.238.90.194"
+    ]
   },
   {
-    "hostname": "torg.mail.ru",
-    "ip": ""
+    "hostname": "avatars.mds.yandex.net",
+    "ip": "87.250.247.181",
+    "ips": [
+      "87.250.247.181",
+      "87.250.247.182",
+      "87.250.247.183"
+    ]
   },
   {
-    "hostname": "pogoda.mail.ru",
-    "ip": ""
+    "hostname": "aviasales.ru",
+    "ip": "135.106.198.244",
+    "ips": [
+      "135.106.198.244"
+    ]
+  },
+  {
+    "hostname": "avito.ru",
+    "ip": "176.114.120.24",
+    "ips": [
+      "176.114.120.24",
+      "176.114.122.24",
+      "176.114.124.24"
+    ]
+  },
+  {
+    "hostname": "avito.st",
+    "ip": "95.181.182.185",
+    "ips": [
+      "95.181.182.185",
+      "176.114.120.6",
+      "176.114.122.6",
+      "176.114.124.6"
+    ]
+  },
+  {
+    "hostname": "avtodor.ru",
+    "ip": "89.104.87.124",
+    "ips": [
+      "89.104.87.124"
+    ]
+  },
+  {
+    "hostname": "avtokod.ru",
+    "ip": "31.31.205.163",
+    "ips": [
+      "31.31.205.163"
+    ]
+  },
+  {
+    "hostname": "avtovaz.ru",
+    "ip": "195.222.161.165",
+    "ips": [
+      "195.222.161.165"
+    ]
+  },
+  {
+    "hostname": "banki.ru",
+    "ip": "185.71.67.241",
+    "ips": [
+      "185.71.67.241"
+    ]
+  },
+  {
+    "hostname": "bankrot.fedresurs.ru",
+    "ip": "46.28.18.15",
+    "ips": [
+      "46.28.18.15"
+    ]
+  },
+  {
+    "hostname": "base.garant.ru",
+    "ip": "185.178.208.73",
+    "ips": [
+      "185.178.208.73"
+    ]
+  },
+  {
+    "hostname": "basealt.ru",
+    "ip": "194.107.17.249",
+    "ips": [
+      "194.107.17.249"
+    ]
+  },
+  {
+    "hostname": "bcs-express.ru",
+    "ip": "109.238.88.230",
+    "ips": [
+      "109.238.88.230"
+    ]
+  },
+  {
+    "hostname": "bcs.ru",
+    "ip": "109.238.88.230",
+    "ips": [
+      "109.238.88.230"
+    ]
+  },
+  {
+    "hostname": "beeline.ru",
+    "ip": "217.118.87.98",
+    "ips": [
+      "217.118.87.98"
+    ]
+  },
+  {
+    "hostname": "befree.ru",
+    "ip": "85.209.149.83",
+    "ips": [
+      "85.209.149.83"
+    ]
+  },
+  {
+    "hostname": "beget.com",
+    "ip": "193.168.47.254",
+    "ips": [
+      "193.168.47.254"
+    ]
+  },
+  {
+    "hostname": "beru.ru",
+    "ip": "87.250.250.250",
+    "ips": [
+      "87.250.250.250"
+    ]
+  },
+  {
+    "hostname": "bfm.ru",
+    "ip": "192.162.242.55",
+    "ips": [
+      "192.162.242.55",
+      "192.162.242.62",
+      "192.162.242.66"
+    ]
+  },
+  {
+    "hostname": "bi.zone",
+    "ip": "185.163.159.5",
+    "ips": [
+      "185.163.159.5"
+    ]
+  },
+  {
+    "hostname": "bibika.ru",
+    "ip": "87.249.32.214",
+    "ips": [
+      "87.249.32.214"
+    ]
+  },
+  {
+    "hostname": "biletix.ru",
+    "ip": "178.248.237.59",
+    "ips": [
+      "178.248.237.59"
+    ]
+  },
+  {
+    "hostname": "bio.rt.ru",
+    "ip": "95.167.154.115",
+    "ips": [
+      "95.167.154.115"
+    ]
+  },
+  {
+    "hostname": "bitrix24.com",
+    "ip": "185.104.211.34",
+    "ips": [
+      "185.104.211.34"
+    ]
+  },
+  {
+    "hostname": "bitrix24.ru",
+    "ip": "178.248.238.120",
+    "ips": [
+      "178.248.238.120"
+    ]
+  },
+  {
+    "hostname": "bmstu.ru",
+    "ip": "195.19.34.250",
+    "ips": [
+      "195.19.34.250"
+    ]
+  },
+  {
+    "hostname": "boom.ru",
+    "ip": "87.240.129.191",
+    "ips": [
+      "87.240.129.191",
+      "87.240.190.66"
+    ]
+  },
+  {
+    "hostname": "boomstream.com",
+    "ip": "46.29.118.72",
+    "ips": [
+      "46.29.118.72",
+      "46.29.118.125",
+      "91.109.201.40",
+      "91.109.201.87",
+      "91.109.201.105",
+      "91.109.202.4",
+      "91.109.204.245",
+      "91.109.206.6"
+    ]
+  },
+  {
+    "hostname": "boxberry.ru",
+    "ip": "5.45.196.38",
+    "ips": [
+      "5.45.196.38"
+    ]
+  },
+  {
+    "hostname": "bristol.ru",
+    "ip": "178.248.233.140",
+    "ips": [
+      "178.248.233.140"
+    ]
+  },
+  {
+    "hostname": "bronevik.com",
+    "ip": "185.65.148.172",
+    "ips": [
+      "185.65.148.172"
+    ]
+  },
+  {
+    "hostname": "browser.yandex.ru",
+    "ip": "93.158.134.121",
+    "ips": [
+      "93.158.134.121"
+    ]
+  },
+  {
+    "hostname": "bspb.ru",
+    "ip": "213.172.3.49",
+    "ips": [
+      "213.172.3.49",
+      "217.195.86.165"
+    ]
+  },
+  {
+    "hostname": "burgerking.ru",
+    "ip": "178.248.232.100",
+    "ips": [
+      "178.248.232.100"
+    ]
+  },
+  {
+    "hostname": "bus.gov.ru",
+    "ip": "95.167.245.106",
+    "ips": [
+      "95.167.245.106"
+    ]
+  },
+  {
+    "hostname": "carprice.ru",
+    "ip": "95.181.181.107",
+    "ips": [
+      "95.181.181.107"
+    ]
+  },
+  {
+    "hostname": "cbr.ru",
+    "ip": "185.178.208.7",
+    "ips": [
+      "185.178.208.7"
+    ]
+  },
+  {
+    "hostname": "cdek.ru",
+    "ip": "91.206.127.236",
+    "ips": [
+      "91.206.127.236"
+    ]
+  },
+  {
+    "hostname": "cdn1.ozone.ru",
+    "ip": "185.73.193.119",
+    "ips": [
+      "185.73.193.119",
+      "185.73.195.116"
+    ]
+  },
+  {
+    "hostname": "championat.com",
+    "ip": "81.19.86.0",
+    "ips": [
+      "81.19.86.0",
+      "81.19.86.1",
+      "81.19.86.2"
+    ]
+  },
+  {
+    "hostname": "chizhik.ru",
+    "ip": "185.158.112.158",
+    "ips": [
+      "185.158.112.158"
+    ]
+  },
+  {
+    "hostname": "cian.ru",
+    "ip": "51.250.123.126",
+    "ips": [
+      "51.250.123.126"
+    ]
+  },
+  {
+    "hostname": "citilab.ru",
+    "ip": "82.202.191.191",
+    "ips": [
+      "82.202.191.191"
+    ]
+  },
+  {
+    "hostname": "citilink.ru",
+    "ip": "178.248.234.66",
+    "ips": [
+      "178.248.234.66"
+    ]
+  },
+  {
+    "hostname": "cloud.mail.ru",
+    "ip": "95.163.48.30",
+    "ips": [
+      "95.163.48.30"
+    ]
+  },
+  {
+    "hostname": "cloud.rt.ru",
+    "ip": "87.226.155.117",
+    "ips": [
+      "87.226.155.117",
+      "213.59.197.32"
+    ]
+  },
+  {
+    "hostname": "cloud.yandex.ru",
+    "ip": "87.250.250.108",
+    "ips": [
+      "87.250.250.108"
+    ]
+  },
+  {
+    "hostname": "clt.ru",
+    "ip": "92.53.96.222",
+    "ips": [
+      "92.53.96.222"
+    ]
+  },
+  {
+    "hostname": "cmd-online.ru",
+    "ip": "89.22.171.199",
+    "ips": [
+      "89.22.171.199"
+    ]
+  },
+  {
+    "hostname": "codeby.school",
+    "ip": "95.129.236.192",
+    "ips": [
+      "95.129.236.192"
+    ]
+  },
+  {
+    "hostname": "codland.ru",
+    "ip": "89.108.122.195",
+    "ips": [
+      "89.108.122.195"
+    ]
+  },
+  {
+    "hostname": "consultant.ru",
+    "ip": "194.105.131.44",
+    "ips": [
+      "194.105.131.44",
+      "194.105.131.45"
+    ]
+  },
+  {
+    "hostname": "continent.ru",
+    "ip": "85.193.70.213",
+    "ips": [
+      "85.193.70.213"
+    ]
+  },
+  {
+    "hostname": "council.gov.ru",
+    "ip": "95.173.132.28",
+    "ips": [
+      "95.173.132.28",
+      "95.173.132.31",
+      "95.173.132.73"
+    ]
+  },
+  {
+    "hostname": "crediteurope.ru",
+    "ip": "195.14.106.70",
+    "ips": [
+      "195.14.106.70"
+    ]
+  },
+  {
+    "hostname": "croc.ru",
+    "ip": "178.248.234.15",
+    "ips": [
+      "178.248.234.15"
+    ]
+  },
+  {
+    "hostname": "cryptopro.ru",
+    "ip": "82.204.188.43",
+    "ips": [
+      "82.204.188.43",
+      "188.246.160.43",
+      "193.37.157.43"
+    ]
+  },
+  {
+    "hostname": "cse.ru",
+    "ip": "95.129.236.100",
+    "ips": [
+      "95.129.236.100"
+    ]
+  },
+  {
+    "hostname": "cska.ru",
+    "ip": "95.163.227.216",
+    "ips": [
+      "95.163.227.216"
+    ]
+  },
+  {
+    "hostname": "ctc.ru",
+    "ip": "91.206.127.24",
+    "ips": [
+      "91.206.127.24",
+      "94.140.200.223",
+      "94.140.201.223"
+    ]
+  },
+  {
+    "hostname": "culture.gov.ru",
+    "ip": "194.190.9.31",
+    "ips": [
+      "194.190.9.31",
+      "194.190.9.32"
+    ]
+  },
+  {
+    "hostname": "customs.gov.ru",
+    "ip": "89.208.226.45",
+    "ips": [
+      "89.208.226.45"
+    ]
+  },
+  {
+    "hostname": "customs.ru",
+    "ip": "89.208.226.45",
+    "ips": [
+      "89.208.226.45"
+    ]
+  },
+  {
+    "hostname": "delivery-club.ru",
+    "ip": "87.250.254.102",
+    "ips": [
+      "87.250.254.102"
+    ]
+  },
+  {
+    "hostname": "delivery.yandex.ru",
+    "ip": "87.250.251.239",
+    "ips": [
+      "87.250.251.239"
+    ]
+  },
+  {
+    "hostname": "dellin.ru",
+    "ip": "178.248.238.211",
+    "ips": [
+      "178.248.238.211"
+    ]
+  },
+  {
+    "hostname": "desport.ru",
+    "ip": "81.29.135.217",
+    "ips": [
+      "81.29.135.217"
+    ]
+  },
+  {
+    "hostname": "deti.mail.ru",
+    "ip": "95.163.61.115",
+    "ips": [
+      "95.163.61.115"
+    ]
+  },
+  {
+    "hostname": "detmir.ru",
+    "ip": "95.129.232.159",
+    "ips": [
+      "95.129.232.159"
+    ]
+  },
+  {
+    "hostname": "diadoc.ru",
+    "ip": "46.17.203.154",
+    "ips": [
+      "46.17.203.154"
+    ]
+  },
+  {
+    "hostname": "diasoft.ru",
+    "ip": "93.91.8.37",
+    "ips": [
+      "93.91.8.37"
+    ]
+  },
+  {
+    "hostname": "digital.gov.ru",
+    "ip": "109.207.1.110",
+    "ips": [
+      "109.207.1.110"
+    ]
+  },
+  {
+    "hostname": "disk.yandex.ru",
+    "ip": "87.250.250.50",
+    "ips": [
+      "87.250.250.50",
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "dixy.ru",
+    "ip": "178.248.233.46",
+    "ips": [
+      "178.248.233.46"
+    ]
+  },
+  {
+    "hostname": "dnevnik.ru",
+    "ip": "178.248.232.13",
+    "ips": [
+      "178.248.232.13"
+    ]
+  },
+  {
+    "hostname": "dns-shop.ru",
+    "ip": "185.65.148.196",
+    "ips": [
+      "185.65.148.196"
+    ]
+  },
+  {
+    "hostname": "docdoc.ru",
+    "ip": "109.238.88.151",
+    "ips": [
+      "109.238.88.151"
+    ]
+  },
+  {
+    "hostname": "dodopizza.ru",
+    "ip": "91.221.164.120",
+    "ips": [
+      "91.221.164.120"
+    ]
+  },
+  {
+    "hostname": "dom.gosuslugi.ru",
+    "ip": "217.107.108.114",
+    "ips": [
+      "217.107.108.114"
+    ]
+  },
+  {
+    "hostname": "dom.ru",
+    "ip": "194.190.0.234",
+    "ips": [
+      "194.190.0.234"
+    ]
+  },
+  {
+    "hostname": "domclick.ru",
+    "ip": "178.248.234.210",
+    "ips": [
+      "178.248.234.210"
+    ]
+  },
+  {
+    "hostname": "dominos.ru",
+    "ip": "91.199.149.151",
+    "ips": [
+      "91.199.149.151"
+    ]
+  },
+  {
+    "hostname": "domofond.ru",
+    "ip": "176.114.120.13",
+    "ips": [
+      "176.114.120.13",
+      "176.114.122.13",
+      "176.114.124.13"
+    ]
+  },
+  {
+    "hostname": "domrf.ru",
+    "ip": "185.169.155.189",
+    "ips": [
+      "185.169.155.189"
+    ]
+  },
+  {
+    "hostname": "domrfbank.ru",
+    "ip": "91.232.6.132",
+    "ips": [
+      "91.232.6.132"
+    ]
+  },
+  {
+    "hostname": "domru.ru",
+    "ip": "188.186.157.51",
+    "ips": [
+      "188.186.157.51"
+    ]
+  },
+  {
+    "hostname": "dpd.ru",
+    "ip": "185.169.155.177",
+    "ips": [
+      "185.169.155.177"
+    ]
+  },
+  {
+    "hostname": "drom.ru",
+    "ip": "185.65.149.115",
+    "ips": [
+      "185.65.149.115"
+    ]
+  },
+  {
+    "hostname": "drweb.com",
+    "ip": "178.248.233.94",
+    "ips": [
+      "178.248.233.94"
+    ]
+  },
+  {
+    "hostname": "drweb.ru",
+    "ip": "178.248.232.183",
+    "ips": [
+      "178.248.232.183"
+    ]
+  },
+  {
+    "hostname": "dtf.ru",
+    "ip": "5.188.161.116",
+    "ips": [
+      "5.188.161.116",
+      "5.188.161.118"
+    ]
+  },
+  {
+    "hostname": "duma.gov.ru",
+    "ip": "95.173.130.41",
+    "ips": [
+      "95.173.130.41",
+      "95.173.130.42"
+    ]
+  },
+  {
+    "hostname": "dzen.ru",
+    "ip": "95.163.218.220",
+    "ips": [
+      "95.163.218.220"
+    ]
+  },
+  {
+    "hostname": "e-kontur.ru",
+    "ip": "46.17.203.154",
+    "ips": [
+      "46.17.203.154"
+    ]
+  },
+  {
+    "hostname": "e-osago.ru",
+    "ip": "78.40.217.75",
+    "ips": [
+      "78.40.217.75"
+    ]
+  },
+  {
+    "hostname": "e-yakutia.ru",
+    "ip": "91.201.237.94",
+    "ips": [
+      "91.201.237.94"
+    ]
+  },
+  {
+    "hostname": "e.mail.ru",
+    "ip": "89.221.239.2",
+    "ips": [
+      "89.221.239.2",
+      "90.156.232.41",
+      "94.100.180.215",
+      "94.100.180.216",
+      "217.69.139.215",
+      "217.69.139.216"
+    ]
+  },
+  {
+    "hostname": "e1.ru",
+    "ip": "195.19.220.24",
+    "ips": [
+      "195.19.220.24"
+    ]
+  },
+  {
+    "hostname": "e96.ru",
+    "ip": "185.50.24.196",
+    "ips": [
+      "185.50.24.196"
+    ]
+  },
+  {
+    "hostname": "eapteka.ru",
+    "ip": "37.220.162.231",
+    "ips": [
+      "37.220.162.231",
+      "195.209.81.113",
+      "195.209.81.215",
+      "195.209.82.243",
+      "212.193.155.44",
+      "212.193.155.92"
+    ]
+  },
+  {
+    "hostname": "economy.gov.ru",
+    "ip": "212.164.137.137",
+    "ips": [
+      "212.164.137.137"
+    ]
+  },
+  {
+    "hostname": "eda.yandex.ru",
+    "ip": "87.250.251.213",
+    "ips": [
+      "87.250.251.213"
+    ]
+  },
+  {
+    "hostname": "edu.gosuslugi.ru",
+    "ip": "109.207.9.33",
+    "ips": [
+      "109.207.9.33"
+    ]
+  },
+  {
+    "hostname": "edu.ru",
+    "ip": "85.142.19.10",
+    "ips": [
+      "85.142.19.10"
+    ]
+  },
+  {
+    "hostname": "education.yandex.ru",
+    "ip": "5.45.196.63",
+    "ips": [
+      "5.45.196.63",
+      "87.250.254.185"
+    ]
+  },
+  {
+    "hostname": "ege.yandex.ru",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "egrn.ru",
+    "ip": "31.31.196.17",
+    "ips": [
+      "31.31.196.17"
+    ]
+  },
+  {
+    "hostname": "egrul.nalog.ru",
+    "ip": "213.24.64.183",
+    "ips": [
+      "213.24.64.183"
+    ]
+  },
+  {
+    "hostname": "elbrus.ru",
+    "ip": "51.250.48.199",
+    "ips": [
+      "51.250.48.199"
+    ]
+  },
+  {
+    "hostname": "eldorado.ru",
+    "ip": "185.71.67.56",
+    "ips": [
+      "185.71.67.56"
+    ]
+  },
+  {
+    "hostname": "elibrary.ru",
+    "ip": "195.209.52.65",
+    "ips": [
+      "195.209.52.65",
+      "195.209.52.70"
+    ]
+  },
+  {
+    "hostname": "eltex-co.ru",
+    "ip": "161.104.46.191",
+    "ips": [
+      "161.104.46.191"
+    ]
+  },
+  {
+    "hostname": "eltex.ru",
+    "ip": "161.104.46.191",
+    "ips": [
+      "161.104.46.191"
+    ]
+  },
+  {
+    "hostname": "emcmos.ru",
+    "ip": "178.248.239.249",
+    "ips": [
+      "178.248.239.249"
+    ]
+  },
+  {
+    "hostname": "emex.ru",
+    "ip": "83.242.98.105",
+    "ips": [
+      "83.242.98.105"
+    ]
+  },
+  {
+    "hostname": "emias.info",
+    "ip": "82.202.189.136",
+    "ips": [
+      "82.202.189.136"
+    ]
+  },
+  {
+    "hostname": "emspost.ru",
+    "ip": "212.164.140.129",
+    "ips": [
+      "212.164.140.129",
+      "212.164.140.151",
+      "212.164.140.153"
+    ]
+  },
+  {
+    "hostname": "energogarant.ru",
+    "ip": "185.71.67.208",
+    "ips": [
+      "185.71.67.208"
+    ]
+  },
+  {
+    "hostname": "englex.ru",
+    "ip": "185.151.240.205",
+    "ips": [
+      "185.151.240.205"
+    ]
+  },
+  {
+    "hostname": "epgu.gosuslugi.ru",
+    "ip": "213.59.253.7",
+    "ips": [
+      "213.59.253.7",
+      "213.59.254.7"
+    ]
+  },
+  {
+    "hostname": "er-telecom.ru",
+    "ip": "87.236.16.8",
+    "ips": [
+      "87.236.16.8"
+    ]
+  },
+  {
+    "hostname": "es.pfrf.ru",
+    "ip": "195.161.52.80",
+    "ips": [
+      "195.161.52.80"
+    ]
+  },
+  {
+    "hostname": "esia.gosuslugi.ru",
+    "ip": "213.59.253.8",
+    "ips": [
+      "213.59.253.8",
+      "213.59.254.8"
+    ]
+  },
+  {
+    "hostname": "esquire.ru",
+    "ip": "178.72.176.230",
+    "ips": [
+      "178.72.176.230"
+    ]
+  },
+  {
+    "hostname": "etagi.com",
+    "ip": "82.147.65.36",
+    "ips": [
+      "82.147.65.36"
+    ]
+  },
+  {
+    "hostname": "euroset.ru",
+    "ip": "185.165.123.53",
+    "ips": [
+      "185.165.123.53"
+    ]
+  },
+  {
+    "hostname": "evraz.com",
+    "ip": "185.169.155.169",
+    "ips": [
+      "185.169.155.169"
+    ]
+  },
+  {
+    "hostname": "eximbank.ru",
+    "ip": "82.202.190.107",
+    "ips": [
+      "82.202.190.107"
+    ]
+  },
+  {
+    "hostname": "exist.ru",
+    "ip": "82.202.190.53",
+    "ips": [
+      "82.202.190.53"
+    ]
+  },
+  {
+    "hostname": "expobank.ru",
+    "ip": "185.71.67.65",
+    "ips": [
+      "185.71.67.65"
+    ]
+  },
+  {
+    "hostname": "extern.kontur.ru",
+    "ip": "46.17.203.250",
+    "ips": [
+      "46.17.203.250"
+    ]
+  },
+  {
+    "hostname": "fa.ru",
+    "ip": "212.164.138.56",
+    "ips": [
+      "212.164.138.56",
+      "212.164.138.66"
+    ]
+  },
+  {
+    "hostname": "farmani.ru",
+    "ip": "5.188.118.51",
+    "ips": [
+      "5.188.118.51"
+    ]
+  },
+  {
+    "hostname": "farpost.ru",
+    "ip": "195.88.224.85",
+    "ips": [
+      "195.88.224.85",
+      "195.88.224.86"
+    ]
+  },
+  {
+    "hostname": "fas.gov.ru",
+    "ip": "194.226.26.36",
+    "ips": [
+      "194.226.26.36"
+    ]
+  },
+  {
+    "hostname": "favt.ru",
+    "ip": "194.226.91.6",
+    "ips": [
+      "194.226.91.6"
+    ]
+  },
+  {
+    "hostname": "fcdynamo.ru",
+    "ip": "81.177.220.114",
+    "ips": [
+      "81.177.220.114"
+    ]
+  },
+  {
+    "hostname": "fedresurs.ru",
+    "ip": "46.28.18.15",
+    "ips": [
+      "46.28.18.15"
+    ]
+  },
+  {
+    "hostname": "film.ru",
+    "ip": "82.202.230.54",
+    "ips": [
+      "82.202.230.54",
+      "82.202.230.55",
+      "82.202.230.56"
+    ]
+  },
+  {
+    "hostname": "finam.ru",
+    "ip": "91.206.127.197",
+    "ips": [
+      "91.206.127.197"
+    ]
+  },
+  {
+    "hostname": "fipi.ru",
+    "ip": "185.215.4.13",
+    "ips": [
+      "185.215.4.13"
+    ]
+  },
+  {
+    "hostname": "fips.ru",
+    "ip": "91.215.42.117",
+    "ips": [
+      "91.215.42.117"
+    ]
+  },
+  {
+    "hostname": "fivepost.ru",
+    "ip": "193.232.108.16",
+    "ips": [
+      "193.232.108.16"
+    ]
+  },
+  {
+    "hostname": "fix-price.ru",
+    "ip": "5.188.143.211",
+    "ips": [
+      "5.188.143.211"
+    ]
+  },
+  {
+    "hostname": "fl.ru",
+    "ip": "185.129.102.109",
+    "ips": [
+      "185.129.102.109"
+    ]
+  },
+  {
+    "hostname": "focus.kontur.ru",
+    "ip": "46.17.203.8",
+    "ips": [
+      "46.17.203.8",
+      "46.17.206.17"
+    ]
+  },
+  {
+    "hostname": "fontanka.ru",
+    "ip": "195.19.220.21",
+    "ips": [
+      "195.19.220.21"
+    ]
+  },
+  {
+    "hostname": "forbes.ru",
+    "ip": "5.252.32.223",
+    "ips": [
+      "5.252.32.223"
+    ]
+  },
+  {
+    "hostname": "foxford.ru",
+    "ip": "178.248.235.201",
+    "ips": [
+      "178.248.235.201",
+      "185.65.150.138"
+    ]
+  },
+  {
+    "hostname": "freelance.ru",
+    "ip": "185.178.208.121",
+    "ips": [
+      "185.178.208.121"
+    ]
+  },
+  {
+    "hostname": "fsa.gov.ru",
+    "ip": "5.143.238.155",
+    "ips": [
+      "5.143.238.155",
+      "212.164.138.15",
+      "212.164.138.20"
+    ]
+  },
+  {
+    "hostname": "fsin.ru",
+    "ip": "185.179.226.4",
+    "ips": [
+      "185.179.226.4"
+    ]
+  },
+  {
+    "hostname": "fso.gov.ru",
+    "ip": "95.173.128.89",
+    "ips": [
+      "95.173.128.89",
+      "95.173.128.90"
+    ]
+  },
+  {
+    "hostname": "fssp.gov.ru",
+    "ip": "46.61.214.90",
+    "ips": [
+      "46.61.214.90"
+    ]
+  },
+  {
+    "hostname": "fstek.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "fts.ru",
+    "ip": "178.210.92.164",
+    "ips": [
+      "178.210.92.164"
+    ]
+  },
+  {
+    "hostname": "games.mail.ru",
+    "ip": "95.163.61.43",
+    "ips": [
+      "95.163.61.43"
+    ]
+  },
+  {
+    "hostname": "garant.ru",
+    "ip": "185.178.208.73",
+    "ips": [
+      "185.178.208.73"
+    ]
+  },
+  {
+    "hostname": "gazeta.ru",
+    "ip": "81.19.72.0",
+    "ips": [
+      "81.19.72.0",
+      "81.19.72.1",
+      "81.19.72.2"
+    ]
+  },
+  {
+    "hostname": "gazgroup.ru",
+    "ip": "178.248.235.64",
+    "ips": [
+      "178.248.235.64"
+    ]
+  },
+  {
+    "hostname": "gazprom.ru",
+    "ip": "109.234.11.124",
+    "ips": [
+      "109.234.11.124"
+    ]
+  },
+  {
+    "hostname": "gazprombank.ru",
+    "ip": "82.202.190.240",
+    "ips": [
+      "82.202.190.240"
+    ]
+  },
+  {
+    "hostname": "gdeposylka.ru",
+    "ip": "91.221.109.76",
+    "ips": [
+      "91.221.109.76"
+    ]
+  },
+  {
+    "hostname": "geekbrains.ru",
+    "ip": "178.248.232.209",
+    "ips": [
+      "178.248.232.209"
+    ]
+  },
+  {
+    "hostname": "gemotest.ru",
+    "ip": "185.11.199.148",
+    "ips": [
+      "185.11.199.148"
+    ]
+  },
+  {
+    "hostname": "gibdd.ru",
+    "ip": "185.6.47.14",
+    "ips": [
+      "185.6.47.14",
+      "185.6.47.15",
+      "188.225.35.38"
+    ]
+  },
+  {
+    "hostname": "gks.ru",
+    "ip": "176.211.106.41",
+    "ips": [
+      "176.211.106.41"
+    ]
+  },
+  {
+    "hostname": "globus.ru",
+    "ip": "185.11.197.80",
+    "ips": [
+      "185.11.197.80"
+    ]
+  },
+  {
+    "hostname": "gloria-jeans.ru",
+    "ip": "109.238.90.139",
+    "ips": [
+      "109.238.90.139"
+    ]
+  },
+  {
+    "hostname": "go.yandex.ru",
+    "ip": "87.250.251.249",
+    "ips": [
+      "87.250.251.249",
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "goldapple.ru",
+    "ip": "46.235.186.102",
+    "ips": [
+      "46.235.186.102",
+      "46.235.188.133",
+      "195.209.66.182",
+      "212.193.155.78"
+    ]
+  },
+  {
+    "hostname": "goods.ru",
+    "ip": "91.206.127.39",
+    "ips": [
+      "91.206.127.39"
+    ]
   },
   {
     "hostname": "gorod.mail.ru",
+    "ip": "90.156.232.38",
+    "ips": [
+      "90.156.232.38"
+    ]
+  },
+  {
+    "hostname": "gorzdrav.org",
+    "ip": "185.71.64.131",
+    "ips": [
+      "185.71.64.131"
+    ]
+  },
+  {
+    "hostname": "gosapteka.ru",
+    "ip": "45.130.41.22",
+    "ips": [
+      "45.130.41.22",
+      "155.212.191.205"
+    ]
+  },
+  {
+    "hostname": "gosfinance.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "goskey.ru",
+    "ip": "193.162.30.87",
+    "ips": [
+      "193.162.30.87"
+    ]
+  },
+  {
+    "hostname": "gost.ru",
+    "ip": "212.164.138.14",
+    "ips": [
+      "212.164.138.14",
+      "212.164.138.19"
+    ]
+  },
+  {
+    "hostname": "gostech.ru",
+    "ip": "31.31.205.163",
+    "ips": [
+      "31.31.205.163"
+    ]
+  },
+  {
+    "hostname": "gosuslugi.ru",
+    "ip": "213.59.253.7",
+    "ips": [
+      "213.59.253.7",
+      "213.59.254.7"
+    ]
+  },
+  {
+    "hostname": "government.ru",
+    "ip": "95.173.136.162",
+    "ips": [
+      "95.173.136.162",
+      "95.173.136.163",
+      "95.173.136.168"
+    ]
+  },
+  {
+    "hostname": "gpb.ru",
+    "ip": "82.202.190.99",
+    "ips": [
+      "82.202.190.99"
+    ]
+  },
+  {
+    "hostname": "gtd.ru",
+    "ip": "195.246.218.77",
+    "ips": [
+      "195.246.218.77"
+    ]
+  },
+  {
+    "hostname": "gu-st.ru",
+    "ip": "46.235.184.89",
+    "ips": [
+      "46.235.184.89",
+      "46.235.184.95",
+      "46.235.184.101",
+      "46.235.184.152",
+      "46.235.184.195",
+      "46.235.185.88",
+      "46.235.188.129",
+      "46.235.188.152",
+      "46.235.188.171",
+      "46.235.188.172",
+      "46.235.189.79",
+      "212.193.152.96",
+      "212.193.153.34",
+      "212.193.153.45",
+      "212.193.156.251",
+      "212.193.157.40",
+      "212.193.157.189"
+    ]
+  },
+  {
+    "hostname": "guta.ru",
+    "ip": "93.95.101.202",
+    "ips": [
+      "93.95.101.202"
+    ]
+  },
+  {
+    "hostname": "habr.com",
+    "ip": "178.248.237.68",
+    "ips": [
+      "178.248.237.68"
+    ]
+  },
+  {
+    "hostname": "hd.kinopoisk.ru",
+    "ip": "213.180.199.9",
+    "ips": [
+      "213.180.199.9"
+    ]
+  },
+  {
+    "hostname": "headhunter.ru",
+    "ip": "94.124.200.1",
+    "ips": [
+      "94.124.200.1"
+    ]
+  },
+  {
+    "hostname": "health.mail.ru",
+    "ip": "95.163.61.53",
+    "ips": [
+      "95.163.61.53"
+    ]
+  },
+  {
+    "hostname": "health.yandex.ru",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "helix.ru",
+    "ip": "178.248.238.156",
+    "ips": [
+      "178.248.238.156"
+    ]
+  },
+  {
+    "hostname": "henderson.ru",
+    "ip": "178.248.239.158",
+    "ips": [
+      "178.248.239.158"
+    ]
+  },
+  {
+    "hostname": "hermes.ru",
+    "ip": "217.168.64.58",
+    "ips": [
+      "217.168.64.58"
+    ]
+  },
+  {
+    "hostname": "hh.ru",
+    "ip": "94.124.200.0",
+    "ips": [
+      "94.124.200.0",
+      "94.124.200.1"
+    ]
+  },
+  {
+    "hostname": "hi-tech.mail.ru",
+    "ip": "95.163.61.109",
+    "ips": [
+      "95.163.61.109"
+    ]
+  },
+  {
+    "hostname": "holodilnik.ru",
+    "ip": "195.209.82.129",
+    "ips": [
+      "195.209.82.129",
+      "212.193.157.64"
+    ]
+  },
+  {
+    "hostname": "homecredit.ru",
+    "ip": "178.248.233.80",
+    "ips": [
+      "178.248.233.80"
+    ]
+  },
+  {
+    "hostname": "hosting.ru",
+    "ip": "62.118.248.66",
+    "ips": [
+      "62.118.248.66"
+    ]
+  },
+  {
+    "hostname": "hotels.ru",
+    "ip": "82.202.162.159",
+    "ips": [
+      "82.202.162.159"
+    ]
+  },
+  {
+    "hostname": "hse.ru",
+    "ip": "178.248.234.104",
+    "ips": [
+      "178.248.234.104"
+    ]
+  },
+  {
+    "hostname": "htmlacademy.ru",
+    "ip": "46.148.228.50",
+    "ips": [
+      "46.148.228.50"
+    ]
+  },
+  {
+    "hostname": "id.sber.ru",
+    "ip": "84.252.149.147",
+    "ips": [
+      "84.252.149.147"
+    ]
+  },
+  {
+    "hostname": "id.tbank.ru",
+    "ip": "178.130.128.26",
+    "ips": [
+      "178.130.128.26"
+    ]
+  },
+  {
+    "hostname": "id.vk.com",
+    "ip": "93.186.237.1",
+    "ips": [
+      "93.186.237.1",
+      "95.213.56.1"
+    ]
+  },
+  {
+    "hostname": "id.yandex.ru",
+    "ip": "5.45.196.9",
+    "ips": [
+      "5.45.196.9"
+    ]
+  },
+  {
+    "hostname": "ideco.ru",
+    "ip": "185.215.4.66",
+    "ips": [
+      "185.215.4.66"
+    ]
+  },
+  {
+    "hostname": "iledebeaute.ru",
+    "ip": "195.222.161.185",
+    "ips": [
+      "195.222.161.185"
+    ]
+  },
+  {
+    "hostname": "img.mail.ru",
+    "ip": "94.100.180.100",
+    "ips": [
+      "94.100.180.100",
+      "94.100.180.101"
+    ]
+  },
+  {
+    "hostname": "imgsmail.ru",
+    "ip": "89.221.239.2",
+    "ips": [
+      "89.221.239.2",
+      "90.156.232.41"
+    ]
+  },
+  {
+    "hostname": "incom.ru",
+    "ip": "178.248.239.195",
+    "ips": [
+      "178.248.239.195"
+    ]
+  },
+  {
+    "hostname": "informatics.ru",
+    "ip": "91.215.43.185",
+    "ips": [
+      "91.215.43.185"
+    ]
+  },
+  {
+    "hostname": "infosystems.ru",
+    "ip": "62.109.11.76",
+    "ips": [
+      "62.109.11.76"
+    ]
+  },
+  {
+    "hostname": "infotecs.ru",
+    "ip": "185.169.155.73",
+    "ips": [
+      "185.169.155.73"
+    ]
+  },
+  {
+    "hostname": "infourok.ru",
+    "ip": "178.248.232.117",
+    "ips": [
+      "178.248.232.117"
+    ]
+  },
+  {
+    "hostname": "infowatch.ru",
+    "ip": "95.129.232.81",
+    "ips": [
+      "95.129.232.81"
+    ]
+  },
+  {
+    "hostname": "ingos.ru",
+    "ip": "195.245.206.101",
+    "ips": [
+      "195.245.206.101"
+    ]
+  },
+  {
+    "hostname": "inosmi.ru",
+    "ip": "194.190.139.41",
+    "ips": [
+      "194.190.139.41"
+    ]
+  },
+  {
+    "hostname": "interfax.ru",
+    "ip": "178.248.233.231",
+    "ips": [
+      "178.248.233.231"
+    ]
+  },
+  {
+    "hostname": "interneturok.ru",
+    "ip": "178.248.235.158",
+    "ips": [
+      "178.248.235.158"
+    ]
+  },
+  {
+    "hostname": "investfunds.ru",
+    "ip": "37.220.161.129",
+    "ips": [
+      "37.220.161.129",
+      "195.209.82.71",
+      "195.209.86.111",
+      "195.209.87.105",
+      "195.209.88.127",
+      "195.209.90.117",
+      "195.209.193.90",
+      "217.65.2.92",
+      "217.65.2.93"
+    ]
+  },
+  {
+    "hostname": "invitro.ru",
+    "ip": "185.129.103.93",
+    "ips": [
+      "185.129.103.93"
+    ]
+  },
+  {
+    "hostname": "ir.ozone.ru",
+    "ip": "185.73.193.119",
+    "ips": [
+      "185.73.193.119",
+      "185.73.195.116"
+    ]
+  },
+  {
+    "hostname": "iraero.ru",
+    "ip": "82.202.170.94",
+    "ips": [
+      "82.202.170.94"
+    ]
+  },
+  {
+    "hostname": "iss.moex.com",
+    "ip": "85.118.181.24",
+    "ips": [
+      "85.118.181.24"
+    ]
+  },
+  {
+    "hostname": "itmo.ru",
+    "ip": "51.250.116.144",
+    "ips": [
+      "51.250.116.144",
+      "51.250.120.146"
+    ]
+  },
+  {
+    "hostname": "ivi.ru",
+    "ip": "80.67.43.1",
+    "ips": [
+      "80.67.43.1",
+      "80.67.43.33",
+      "80.67.43.65"
+    ]
+  },
+  {
+    "hostname": "iz.ru",
+    "ip": "185.178.208.4",
+    "ips": [
+      "185.178.208.4"
+    ]
+  },
+  {
+    "hostname": "kad.arbitr.ru",
+    "ip": "185.129.103.123",
+    "ips": [
+      "185.129.103.123"
+    ]
+  },
+  {
+    "hostname": "kaluga-astral.ru",
+    "ip": "62.148.128.5",
+    "ips": [
+      "62.148.128.5"
+    ]
+  },
+  {
+    "hostname": "kamaz.ru",
+    "ip": "188.225.41.10",
+    "ips": [
+      "188.225.41.10"
+    ]
+  },
+  {
+    "hostname": "kari.com",
+    "ip": "46.235.185.248",
+    "ips": [
+      "46.235.185.248",
+      "178.20.233.196",
+      "212.193.147.201",
+      "212.193.147.203",
+      "212.193.157.209"
+    ]
+  },
+  {
+    "hostname": "kasko.ru",
+    "ip": "31.130.149.151",
+    "ips": [
+      "31.130.149.151"
+    ]
+  },
+  {
+    "hostname": "kaspersky.com",
+    "ip": "82.202.191.110",
+    "ips": [
+      "82.202.191.110"
+    ]
+  },
+  {
+    "hostname": "kaspersky.ru",
+    "ip": "82.202.191.110",
+    "ips": [
+      "82.202.191.110"
+    ]
+  },
+  {
+    "hostname": "kazanexpress.ru",
+    "ip": "158.160.102.60",
+    "ips": [
+      "158.160.102.60"
+    ]
+  },
+  {
+    "hostname": "kdl.ru",
+    "ip": "91.206.127.89",
+    "ips": [
+      "91.206.127.89"
+    ]
+  },
+  {
+    "hostname": "kfc.ru",
+    "ip": "37.220.161.117",
+    "ips": [
+      "37.220.161.117",
+      "212.193.152.147",
+      "212.193.153.210",
+      "212.193.156.238",
+      "212.193.157.88"
+    ]
+  },
+  {
+    "hostname": "kfu.ru",
+    "ip": "178.213.240.20",
+    "ips": [
+      "178.213.240.20"
+    ]
+  },
+  {
+    "hostname": "khl.ru",
+    "ip": "109.238.88.141",
+    "ips": [
+      "109.238.88.141"
+    ]
+  },
+  {
+    "hostname": "kino-teatr.ru",
+    "ip": "95.129.232.95",
+    "ips": [
+      "95.129.232.95"
+    ]
+  },
+  {
+    "hostname": "kino.mail.ru",
+    "ip": "95.163.61.112",
+    "ips": [
+      "95.163.61.112"
+    ]
+  },
+  {
+    "hostname": "kinopoisk.ru",
+    "ip": "213.180.199.9",
+    "ips": [
+      "213.180.199.9"
+    ]
+  },
+  {
+    "hostname": "kinorium.com",
+    "ip": "178.72.155.244",
+    "ips": [
+      "178.72.155.244"
+    ]
+  },
+  {
+    "hostname": "kion.ru",
+    "ip": "185.65.148.187",
+    "ips": [
+      "185.65.148.187"
+    ]
+  },
+  {
+    "hostname": "kolesa.ru",
+    "ip": "95.129.232.243",
+    "ips": [
+      "95.129.232.243"
+    ]
+  },
+  {
+    "hostname": "kommersant.ru",
+    "ip": "178.248.238.19",
+    "ips": [
+      "178.248.238.19"
+    ]
+  },
+  {
+    "hostname": "kontur.ru",
+    "ip": "46.17.206.11",
+    "ips": [
+      "46.17.206.11"
+    ]
+  },
+  {
+    "hostname": "kp.ru",
+    "ip": "185.71.64.65",
+    "ips": [
+      "185.71.64.65"
+    ]
+  },
+  {
+    "hostname": "krasnoeibeloe.ru",
+    "ip": "95.181.177.105",
+    "ips": [
+      "95.181.177.105"
+    ]
+  },
+  {
+    "hostname": "kremlin.ru",
+    "ip": "95.173.136.70",
+    "ips": [
+      "95.173.136.70",
+      "95.173.136.71",
+      "95.173.136.72"
+    ]
+  },
+  {
+    "hostname": "ksrf.ru",
+    "ip": "95.173.151.218",
+    "ips": [
+      "95.173.151.218"
+    ]
+  },
+  {
+    "hostname": "kubsu.ru",
+    "ip": "212.192.128.52",
+    "ips": [
+      "212.192.128.52"
+    ]
+  },
+  {
+    "hostname": "kuper.ru",
+    "ip": "194.190.0.50",
+    "ips": [
+      "194.190.0.50"
+    ]
+  },
+  {
+    "hostname": "kwork.ru",
+    "ip": "212.233.94.241",
+    "ips": [
+      "212.233.94.241"
+    ]
+  },
+  {
+    "hostname": "labquest.ru",
+    "ip": "185.65.148.200",
+    "ips": [
+      "185.65.148.200"
+    ]
+  },
+  {
+    "hostname": "lada.ru",
+    "ip": "195.222.161.165",
+    "ips": [
+      "195.222.161.165"
+    ]
+  },
+  {
+    "hostname": "lady.mail.ru",
+    "ip": "95.163.61.114",
+    "ips": [
+      "95.163.61.114"
+    ]
+  },
+  {
+    "hostname": "lamoda.ru",
+    "ip": "81.161.98.78",
+    "ips": [
+      "81.161.98.78",
+      "91.221.165.156"
+    ]
+  },
+  {
+    "hostname": "lanit.ru",
+    "ip": "195.128.157.237",
+    "ips": [
+      "195.128.157.237"
+    ]
+  },
+  {
+    "hostname": "lavka.yandex.ru",
+    "ip": "87.250.250.116",
+    "ips": [
+      "87.250.250.116"
+    ]
+  },
+  {
+    "hostname": "leader-id.ru",
+    "ip": "158.160.155.216",
+    "ips": [
+      "158.160.155.216"
+    ]
+  },
+  {
+    "hostname": "lektorium.tv",
+    "ip": "87.228.12.190",
+    "ips": [
+      "87.228.12.190"
+    ]
+  },
+  {
+    "hostname": "lemanapro.ru",
+    "ip": "185.65.151.100",
+    "ips": [
+      "185.65.151.100"
+    ]
+  },
+  {
+    "hostname": "lenta.com",
+    "ip": "178.248.232.88",
+    "ips": [
+      "178.248.232.88"
+    ]
+  },
+  {
+    "hostname": "lenta.ru",
+    "ip": "81.19.72.32",
+    "ips": [
+      "81.19.72.32",
+      "81.19.72.33",
+      "81.19.72.34"
+    ]
+  },
+  {
+    "hostname": "letu.ru",
+    "ip": "46.235.184.84",
+    "ips": [
+      "46.235.184.84",
+      "46.235.186.164",
+      "46.235.188.79",
+      "46.235.188.94",
+      "195.209.66.53",
+      "195.209.81.131",
+      "195.209.81.149",
+      "212.193.155.50"
+    ]
+  },
+  {
+    "hostname": "life.ru",
+    "ip": "188.254.0.116",
+    "ips": [
+      "188.254.0.116",
+      "195.208.66.149"
+    ]
+  },
+  {
+    "hostname": "lingualeo.com",
+    "ip": "158.160.254.59",
+    "ips": [
+      "158.160.254.59"
+    ]
+  },
+  {
+    "hostname": "lit.ru",
+    "ip": "195.128.85.185",
+    "ips": [
+      "195.128.85.185"
+    ]
+  },
+  {
+    "hostname": "litres.ru",
+    "ip": "193.26.19.6",
+    "ips": [
+      "193.26.19.6",
+      "193.26.19.7",
+      "193.26.19.14",
+      "193.26.19.16",
+      "193.26.19.99",
+      "193.26.19.101",
+      "193.26.19.104",
+      "193.26.19.105"
+    ]
+  },
+  {
+    "hostname": "lk.gosuslugi.ru",
+    "ip": "213.59.253.6",
+    "ips": [
+      "213.59.253.6",
+      "213.59.254.6"
+    ]
+  },
+  {
+    "hostname": "lk.rosreestr.ru",
+    "ip": "217.77.104.136",
+    "ips": [
+      "217.77.104.136"
+    ]
+  },
+  {
+    "hostname": "lkfl.nalog.ru",
+    "ip": "213.24.64.156",
+    "ips": [
+      "213.24.64.156"
+    ]
+  },
+  {
+    "hostname": "lkfl2.nalog.ru",
+    "ip": "213.24.64.17",
+    "ips": [
+      "213.24.64.17",
+      "213.24.64.175"
+    ]
+  },
+  {
+    "hostname": "lknpd.nalog.ru",
+    "ip": "213.24.64.181",
+    "ips": [
+      "213.24.64.181"
+    ]
+  },
+  {
+    "hostname": "lkul.nalog.ru",
+    "ip": "213.24.64.178",
+    "ips": [
+      "213.24.64.178"
+    ]
+  },
+  {
+    "hostname": "locker.ru",
+    "ip": "176.99.3.155",
+    "ips": [
+      "176.99.3.155"
+    ]
+  },
+  {
+    "hostname": "lockobank.ru",
+    "ip": "91.205.183.83",
+    "ips": [
+      "91.205.183.83"
+    ]
+  },
+  {
+    "hostname": "login.mos.ru",
+    "ip": "94.79.51.135",
+    "ips": [
+      "94.79.51.135",
+      "94.79.51.136"
+    ]
+  },
+  {
+    "hostname": "login.vk.com",
+    "ip": "93.186.237.1",
+    "ips": [
+      "93.186.237.1",
+      "95.213.56.1"
+    ]
+  },
+  {
+    "hostname": "logsis.ru",
+    "ip": "45.67.58.34",
+    "ips": [
+      "45.67.58.34"
+    ]
+  },
+  {
+    "hostname": "lsgeotar.ru",
+    "ip": "178.248.232.59",
+    "ips": [
+      "178.248.232.59"
+    ]
+  },
+  {
+    "hostname": "lukoil.ru",
+    "ip": "178.248.235.144",
+    "ips": [
+      "178.248.235.144"
+    ]
+  },
+  {
+    "hostname": "lyceum.yandex.ru",
+    "ip": "87.250.254.71",
+    "ips": [
+      "87.250.254.71"
+    ]
+  },
+  {
+    "hostname": "m.avito.ru",
+    "ip": "176.114.120.16",
+    "ips": [
+      "176.114.120.16",
+      "176.114.122.16",
+      "176.114.124.16"
+    ]
+  },
+  {
+    "hostname": "m.vk.com",
+    "ip": "87.240.129.133",
+    "ips": [
+      "87.240.129.133",
+      "87.240.132.67",
+      "87.240.132.72",
+      "87.240.132.78",
+      "87.240.137.164",
+      "93.186.225.194"
+    ]
+  },
+  {
+    "hostname": "m2.ru",
+    "ip": "178.248.232.43",
+    "ips": [
+      "178.248.232.43"
+    ]
+  },
+  {
+    "hostname": "magnit-market.ru",
+    "ip": "95.163.244.138",
+    "ips": [
+      "95.163.244.138"
+    ]
+  },
+  {
+    "hostname": "magnit.ru",
+    "ip": "178.248.238.72",
+    "ips": [
+      "178.248.238.72"
+    ]
+  },
+  {
+    "hostname": "mai.ru",
+    "ip": "194.54.177.229",
+    "ips": [
+      "194.54.177.229"
+    ]
+  },
+  {
+    "hostname": "mail.ru",
+    "ip": "89.221.239.1",
+    "ips": [
+      "89.221.239.1",
+      "89.221.239.2",
+      "90.156.232.4",
+      "90.156.232.41",
+      "185.180.201.1"
+    ]
+  },
+  {
+    "hostname": "mail.yandex.ru",
+    "ip": "77.88.21.37",
+    "ips": [
+      "77.88.21.37"
+    ]
+  },
+  {
+    "hostname": "major-express.ru",
+    "ip": "95.129.236.203",
+    "ips": [
+      "95.129.236.203"
+    ]
+  },
+  {
+    "hostname": "mango-office.ru",
+    "ip": "178.248.236.69",
+    "ips": [
+      "178.248.236.69"
+    ]
+  },
+  {
+    "hostname": "maps.yandex.ru",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "market.yandex.ru",
+    "ip": "87.250.250.22",
+    "ips": [
+      "87.250.250.22"
+    ]
+  },
+  {
+    "hostname": "matchtv.ru",
+    "ip": "95.181.177.110",
+    "ips": [
+      "95.181.177.110"
+    ]
+  },
+  {
+    "hostname": "max.ru",
+    "ip": "155.212.204.5",
+    "ips": [
+      "155.212.204.5",
+      "155.212.204.74",
+      "155.212.204.140"
+    ]
+  },
+  {
+    "hostname": "maxim-service.ru",
+    "ip": "92.53.96.144",
+    "ips": [
+      "92.53.96.144"
+    ]
+  },
+  {
+    "hostname": "maximonline.ru",
+    "ip": "195.226.222.240",
+    "ips": [
+      "195.226.222.240"
+    ]
+  },
+  {
+    "hostname": "mchs.gov.ru",
+    "ip": "84.42.111.247",
+    "ips": [
+      "84.42.111.247",
+      "95.173.146.182"
+    ]
+  },
+  {
+    "hostname": "mcst.ru",
+    "ip": "178.154.245.251",
+    "ips": [
+      "178.154.245.251"
+    ]
+  },
+  {
+    "hostname": "medi.ru",
+    "ip": "91.232.135.132",
+    "ips": [
+      "91.232.135.132"
+    ]
+  },
+  {
+    "hostname": "medicina.ru",
+    "ip": "185.71.67.35",
+    "ips": [
+      "185.71.67.35"
+    ]
+  },
+  {
+    "hostname": "medportal.ru",
+    "ip": "82.202.213.210",
+    "ips": [
+      "82.202.213.210"
+    ]
+  },
+  {
+    "hostname": "medrocket.ru",
+    "ip": "5.188.57.75",
+    "ips": [
+      "5.188.57.75"
+    ]
+  },
+  {
+    "hostname": "medsi.ru",
+    "ip": "212.109.215.214",
+    "ips": [
+      "212.109.215.214",
+      "212.109.215.240"
+    ]
+  },
+  {
+    "hostname": "megafon.ru",
+    "ip": "178.177.13.149",
+    "ips": [
+      "178.177.13.149",
+      "178.177.13.176",
+      "188.162.60.210",
+      "188.162.60.226"
+    ]
+  },
+  {
+    "hostname": "megamarket.ru",
+    "ip": "91.206.127.39",
+    "ips": [
+      "91.206.127.39"
+    ]
+  },
+  {
+    "hostname": "mephi.ru",
+    "ip": "85.143.112.110",
+    "ips": [
+      "85.143.112.110"
+    ]
+  },
+  {
+    "hostname": "metro-cc.ru",
+    "ip": "95.181.177.3",
+    "ips": [
+      "95.181.177.3"
+    ]
+  },
+  {
+    "hostname": "mgimo.ru",
+    "ip": "185.71.67.161",
+    "ips": [
+      "185.71.67.161"
+    ]
+  },
+  {
+    "hostname": "mgpu.ru",
+    "ip": "91.215.42.162",
+    "ips": [
+      "91.215.42.162"
+    ]
+  },
+  {
+    "hostname": "mgts.ru",
+    "ip": "195.178.108.240",
+    "ips": [
+      "195.178.108.240"
+    ]
+  },
+  {
+    "hostname": "minenergo.gov.ru",
+    "ip": "194.226.91.199",
+    "ips": [
+      "194.226.91.199"
+    ]
+  },
+  {
+    "hostname": "minfin.gov.ru",
+    "ip": "194.226.91.34",
+    "ips": [
+      "194.226.91.34",
+      "195.208.66.45"
+    ]
+  },
+  {
+    "hostname": "minjust.gov.ru",
+    "ip": "95.173.157.26",
+    "ips": [
+      "95.173.157.26"
+    ]
+  },
+  {
+    "hostname": "minobrnauki.gov.ru",
+    "ip": "194.149.71.26",
+    "ips": [
+      "194.149.71.26"
+    ]
+  },
+  {
+    "hostname": "minobrnauki.ru",
+    "ip": "31.31.205.163",
+    "ips": [
+      "31.31.205.163"
+    ]
+  },
+  {
+    "hostname": "minpromtorg.gov.ru",
+    "ip": "212.164.138.11",
+    "ips": [
+      "212.164.138.11",
+      "212.164.138.13"
+    ]
+  },
+  {
+    "hostname": "minsport.gov.ru",
+    "ip": "194.226.91.196",
+    "ips": [
+      "194.226.91.196"
+    ]
+  },
+  {
+    "hostname": "minstroyrf.gov.ru",
+    "ip": "82.202.190.18",
+    "ips": [
+      "82.202.190.18"
+    ]
+  },
+  {
+    "hostname": "mintrans.gov.ru",
+    "ip": "89.208.226.50",
+    "ips": [
+      "89.208.226.50"
+    ]
+  },
+  {
+    "hostname": "mintrud.gov.ru",
+    "ip": "95.173.157.45",
+    "ips": [
+      "95.173.157.45"
+    ]
+  },
+  {
+    "hostname": "minzdrav.gov.ru",
+    "ip": "194.0.219.107",
+    "ips": [
+      "194.0.219.107"
+    ]
+  },
+  {
+    "hostname": "mipt.ru",
+    "ip": "192.188.189.148",
+    "ips": [
+      "192.188.189.148"
+    ]
+  },
+  {
+    "hostname": "miratorg.ru",
+    "ip": "185.71.64.158",
+    "ips": [
+      "185.71.64.158"
+    ]
+  },
+  {
+    "hostname": "mirea.ru",
+    "ip": "91.215.42.222",
+    "ips": [
+      "91.215.42.222"
+    ]
+  },
+  {
+    "hostname": "mirkvartir.ru",
+    "ip": "81.177.164.124",
+    "ips": [
+      "81.177.164.124"
+    ]
+  },
+  {
+    "hostname": "mk.ru",
+    "ip": "85.193.70.155",
+    "ips": [
+      "85.193.70.155"
+    ]
+  },
+  {
+    "hostname": "mkb.ru",
+    "ip": "93.92.113.12",
+    "ips": [
+      "93.92.113.12"
+    ]
+  },
+  {
+    "hostname": "mmk.ru",
+    "ip": "193.16.209.170",
+    "ips": [
+      "193.16.209.170"
+    ]
+  },
+  {
+    "hostname": "mnr.gov.ru",
+    "ip": "95.173.157.38",
+    "ips": [
+      "95.173.157.38"
+    ]
+  },
+  {
+    "hostname": "modulbank.ru",
+    "ip": "185.169.155.187",
+    "ips": [
+      "185.169.155.187"
+    ]
+  },
+  {
+    "hostname": "moex.com",
+    "ip": "85.118.181.8",
+    "ips": [
+      "85.118.181.8"
+    ]
+  },
+  {
+    "hostname": "moex.ru",
+    "ip": "85.118.181.3",
+    "ips": [
+      "85.118.181.3"
+    ]
+  },
+  {
+    "hostname": "more.tv",
+    "ip": "46.235.186.249",
+    "ips": [
+      "46.235.186.249",
+      "212.193.153.131",
+      "212.193.153.139"
+    ]
+  },
+  {
+    "hostname": "morflot.ru",
+    "ip": "185.183.175.82",
+    "ips": [
+      "185.183.175.82"
+    ]
+  },
+  {
+    "hostname": "mos.ru",
+    "ip": "94.79.51.135",
+    "ips": [
+      "94.79.51.135",
+      "212.11.155.134"
+    ]
+  },
+  {
+    "hostname": "move.ru",
+    "ip": "185.71.67.80",
+    "ips": [
+      "185.71.67.80"
+    ]
+  },
+  {
+    "hostname": "mpei.ru",
+    "ip": "193.233.68.141",
+    "ips": [
+      "193.233.68.141"
+    ]
+  },
+  {
+    "hostname": "msu.ru",
+    "ip": "81.26.191.59",
+    "ips": [
+      "81.26.191.59"
+    ]
+  },
+  {
+    "hostname": "mts-connect.ru",
+    "ip": "92.53.96.195",
+    "ips": [
+      "92.53.96.195"
+    ]
+  },
+  {
+    "hostname": "mts-link.ru",
+    "ip": "37.130.193.75",
+    "ips": [
+      "37.130.193.75"
+    ]
+  },
+  {
+    "hostname": "mts.ru",
+    "ip": "178.248.238.27",
+    "ips": [
+      "178.248.238.27"
+    ]
+  },
+  {
+    "hostname": "mtsbank.ru",
+    "ip": "185.163.159.137",
+    "ips": [
+      "185.163.159.137"
+    ]
+  },
+  {
+    "hostname": "mtt.ru",
+    "ip": "185.200.242.8",
+    "ips": [
+      "185.200.242.8"
+    ]
+  },
+  {
+    "hostname": "multiurok.ru",
+    "ip": "95.129.237.198",
+    "ips": [
+      "95.129.237.198"
+    ]
+  },
+  {
+    "hostname": "music.yandex.ru",
+    "ip": "213.180.204.186",
+    "ips": [
+      "213.180.204.186"
+    ]
+  },
+  {
+    "hostname": "muz-tv.ru",
+    "ip": "155.212.235.135",
+    "ips": [
+      "155.212.235.135",
+      "185.71.67.105"
+    ]
+  },
+  {
+    "hostname": "mvd.ru",
+    "ip": "185.6.47.14",
+    "ips": [
+      "185.6.47.14",
+      "185.6.47.15"
+    ]
+  },
+  {
+    "hostname": "mvideo.ru",
+    "ip": "185.71.67.88",
+    "ips": [
+      "185.71.67.88"
+    ]
+  },
+  {
+    "hostname": "mvno.ru",
+    "ip": "80.243.79.5",
+    "ips": [
+      "80.243.79.5",
+      "217.198.92.33"
+    ]
+  },
+  {
+    "hostname": "my.mail.ru",
+    "ip": "89.221.236.44",
+    "ips": [
+      "89.221.236.44"
+    ]
+  },
+  {
+    "hostname": "my.pochtabank.ru",
+    "ip": "62.76.11.223",
+    "ips": [
+      "62.76.11.223"
+    ]
+  },
+  {
+    "hostname": "mybook.ru",
+    "ip": "217.65.3.196",
+    "ips": [
+      "217.65.3.196",
+      "217.65.3.198"
+    ]
+  },
+  {
+    "hostname": "mycdn.me",
+    "ip": "217.20.152.226",
+    "ips": [
+      "217.20.152.226",
+      "217.20.155.82",
+      "217.20.156.72"
+    ]
+  },
+  {
+    "hostname": "myoffice.ru",
+    "ip": "193.32.60.27",
+    "ips": [
+      "193.32.60.27"
+    ]
+  },
+  {
+    "hostname": "n1.ru",
+    "ip": "95.170.128.19",
+    "ips": [
+      "95.170.128.19"
+    ]
+  },
+  {
+    "hostname": "nalog.gov.ru",
+    "ip": "46.235.184.211",
+    "ips": [
+      "46.235.184.211",
+      "46.235.186.77",
+      "46.235.188.74",
+      "46.235.188.75",
+      "195.208.66.236",
+      "212.193.155.41",
+      "212.193.155.42"
+    ]
+  },
+  {
+    "hostname": "nalog.ru",
+    "ip": "195.208.66.236",
+    "ips": [
+      "195.208.66.236"
+    ]
+  },
+  {
+    "hostname": "nanocad.ru",
+    "ip": "95.161.182.169",
+    "ips": [
+      "95.161.182.169"
+    ]
+  },
+  {
+    "hostname": "napopravku.ru",
+    "ip": "109.238.90.126",
+    "ips": [
+      "109.238.90.126"
+    ]
+  },
+  {
+    "hostname": "nashekino.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "netbynet.ru",
+    "ip": "89.20.149.117",
+    "ips": [
+      "89.20.149.117"
+    ]
+  },
+  {
+    "hostname": "netology.ru",
+    "ip": "51.250.51.8",
+    "ips": [
+      "51.250.51.8"
+    ]
+  },
+  {
+    "hostname": "news.mail.ru",
+    "ip": "95.163.61.53",
+    "ips": [
+      "95.163.61.53"
+    ]
+  },
+  {
+    "hostname": "news.ru",
+    "ip": "95.181.181.126",
+    "ips": [
+      "95.181.181.126"
+    ]
+  },
+  {
+    "hostname": "news.yandex.ru",
+    "ip": "87.250.250.12",
+    "ips": [
+      "87.250.250.12",
+      "87.250.251.12",
+      "213.180.193.12",
+      "213.180.204.12"
+    ]
+  },
+  {
+    "hostname": "ng.ru",
+    "ip": "185.65.148.219",
+    "ips": [
+      "185.65.148.219"
+    ]
+  },
+  {
+    "hostname": "ngs.ru",
+    "ip": "195.19.220.15",
+    "ips": [
+      "195.19.220.15",
+      "195.19.220.25"
+    ]
+  },
+  {
+    "hostname": "nkr.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "nlmk.ru",
+    "ip": "178.248.238.79",
+    "ips": [
+      "178.248.238.79"
+    ]
+  },
+  {
+    "hostname": "nlr.ru",
+    "ip": "45.155.105.30",
+    "ips": [
+      "45.155.105.30"
+    ]
+  },
+  {
+    "hostname": "nordwindairlines.ru",
+    "ip": "193.24.8.15",
+    "ips": [
+      "193.24.8.15"
+    ]
+  },
+  {
+    "hostname": "nornickel.ru",
+    "ip": "185.65.148.149",
+    "ips": [
+      "185.65.148.149"
+    ]
+  },
+  {
+    "hostname": "norsi-trans.ru",
+    "ip": "93.189.47.100",
+    "ips": [
+      "93.189.47.100"
+    ]
+  },
+  {
+    "hostname": "novatek.ru",
+    "ip": "31.31.199.181",
+    "ips": [
+      "31.31.199.181"
+    ]
+  },
+  {
+    "hostname": "novikombank.ru",
+    "ip": "89.175.190.152",
+    "ips": [
+      "89.175.190.152"
+    ]
+  },
+  {
+    "hostname": "novofon.ru",
+    "ip": "37.139.38.178",
+    "ips": [
+      "37.139.38.178",
+      "37.139.38.212"
+    ]
+  },
+  {
+    "hostname": "novostroy.su",
+    "ip": "195.209.215.86",
+    "ips": [
+      "195.209.215.86"
+    ]
+  },
+  {
+    "hostname": "nrg.ru",
+    "ip": "31.31.205.163",
+    "ips": [
+      "31.31.205.163"
+    ]
+  },
+  {
+    "hostname": "nsd.ru",
+    "ip": "85.118.181.77",
+    "ips": [
+      "85.118.181.77"
+    ]
+  },
+  {
+    "hostname": "nspk.ru",
+    "ip": "194.190.0.23",
+    "ips": [
+      "194.190.0.23"
+    ]
+  },
+  {
+    "hostname": "nsportal.ru",
+    "ip": "82.202.255.115",
+    "ips": [
+      "82.202.255.115"
+    ]
+  },
+  {
+    "hostname": "nstu.ru",
+    "ip": "217.71.131.242",
+    "ips": [
+      "217.71.131.242"
+    ]
+  },
+  {
+    "hostname": "nsu.ru",
+    "ip": "84.237.49.123",
+    "ips": [
+      "84.237.49.123"
+    ]
+  },
+  {
+    "hostname": "ntv.ru",
+    "ip": "185.129.100.162",
+    "ips": [
+      "185.129.100.162",
+      "185.129.100.166"
+    ]
+  },
+  {
+    "hostname": "ntvplus.ru",
+    "ip": "178.248.238.170",
+    "ips": [
+      "178.248.238.170"
+    ]
+  },
+  {
+    "hostname": "obrnadzor.gov.ru",
+    "ip": "80.250.169.2",
+    "ips": [
+      "80.250.169.2"
+    ]
+  },
+  {
+    "hostname": "ofd.ru",
+    "ip": "178.248.233.91",
+    "ips": [
+      "178.248.233.91"
+    ]
+  },
+  {
+    "hostname": "ok.ru",
+    "ip": "5.61.21.121",
+    "ips": [
+      "5.61.21.121",
+      "5.61.23.11",
+      "217.20.147.1",
+      "217.20.155.13",
+      "217.20.157.145"
+    ]
+  },
+  {
+    "hostname": "okey.ru",
+    "ip": "194.67.71.90",
+    "ips": [
+      "194.67.71.90",
+      "194.67.71.193"
+    ]
+  },
+  {
+    "hostname": "okko.tv",
+    "ip": "185.169.155.118",
+    "ips": [
+      "185.169.155.118"
+    ]
+  },
+  {
+    "hostname": "olimpiada.ru",
+    "ip": "185.178.208.183",
+    "ips": [
+      "185.178.208.183"
+    ]
+  },
+  {
+    "hostname": "onclinic.ru",
+    "ip": "185.71.67.23",
+    "ips": [
+      "185.71.67.23"
+    ]
+  },
+  {
+    "hostname": "onetwotrip.com",
+    "ip": "46.174.142.14",
+    "ips": [
+      "46.174.142.14",
+      "178.248.238.70"
+    ]
+  },
+  {
+    "hostname": "onlime.ru",
+    "ip": "195.166.180.244",
+    "ips": [
+      "195.166.180.244",
+      "213.59.197.100"
+    ]
+  },
+  {
+    "hostname": "online.raiffeisen.ru",
+    "ip": "193.28.44.159",
+    "ips": [
+      "193.28.44.159"
+    ]
+  },
+  {
+    "hostname": "online.sberbank.ru",
+    "ip": "84.252.149.51",
+    "ips": [
+      "84.252.149.51"
+    ]
+  },
+  {
+    "hostname": "online.vtb.ru",
+    "ip": "185.179.144.43",
+    "ips": [
+      "185.179.144.43",
+      "185.179.146.43"
+    ]
+  },
+  {
+    "hostname": "onlinetrade.ru",
+    "ip": "185.169.155.27",
+    "ips": [
+      "185.169.155.27"
+    ]
+  },
+  {
+    "hostname": "open-broker.ru",
+    "ip": "91.197.176.106",
+    "ips": [
+      "91.197.176.106"
+    ]
+  },
+  {
+    "hostname": "open.ru",
+    "ip": "178.248.232.192",
+    "ips": [
+      "178.248.232.192"
+    ]
+  },
+  {
+    "hostname": "openedu.ru",
+    "ip": "178.248.235.109",
+    "ips": [
+      "178.248.235.109"
+    ]
+  },
+  {
+    "hostname": "orion.ru",
+    "ip": "91.201.52.114",
+    "ips": [
+      "91.201.52.114"
+    ]
+  },
+  {
+    "hostname": "ostrovok.ru",
+    "ip": "78.155.198.20",
+    "ips": [
+      "78.155.198.20"
+    ]
+  },
+  {
+    "hostname": "otpbank.ru",
+    "ip": "91.221.165.177",
+    "ips": [
+      "91.221.165.177"
+    ]
+  },
+  {
+    "hostname": "ozon.com",
+    "ip": "185.73.193.68",
+    "ips": [
+      "185.73.193.68",
+      "185.73.194.82"
+    ]
+  },
+  {
+    "hostname": "ozon.ru",
+    "ip": "185.73.193.68",
+    "ips": [
+      "185.73.193.68",
+      "185.73.194.82"
+    ]
+  },
+  {
+    "hostname": "ozone.ru",
+    "ip": "185.73.193.119",
+    "ips": [
+      "185.73.193.119",
+      "185.73.195.116"
+    ]
+  },
+  {
+    "hostname": "p7-office.ru",
+    "ip": "212.233.77.41",
+    "ips": [
+      "212.233.77.41"
+    ]
+  },
+  {
+    "hostname": "pass.rzd.ru",
+    "ip": "212.164.138.120",
+    "ips": [
+      "212.164.138.120",
+      "212.164.138.121",
+      "212.164.138.122",
+      "212.164.138.123",
+      "212.164.138.124",
+      "212.164.138.125",
+      "212.164.138.126",
+      "212.164.138.127",
+      "212.164.138.128",
+      "212.164.138.129",
+      "212.164.138.130",
+      "212.164.138.131",
+      "212.164.140.170",
+      "212.164.140.180"
+    ]
+  },
+  {
+    "hostname": "passport.yandex.ru",
+    "ip": "93.158.134.39",
+    "ips": [
+      "93.158.134.39"
+    ]
+  },
+  {
+    "hostname": "pecom.ru",
+    "ip": "178.248.236.255",
+    "ips": [
+      "178.248.236.255"
+    ]
+  },
+  {
+    "hostname": "perekrestok.ru",
+    "ip": "109.238.90.201",
+    "ips": [
+      "109.238.90.201"
+    ]
+  },
+  {
+    "hostname": "petersburgedu.ru",
+    "ip": "46.243.177.26",
+    "ips": [
+      "46.243.177.26",
+      "46.243.177.102",
+      "46.243.177.103"
+    ]
+  },
+  {
+    "hostname": "pfr.gov.ru",
+    "ip": "195.161.52.80",
+    "ips": [
+      "195.161.52.80"
+    ]
+  },
+  {
+    "hostname": "pfrf.ru",
+    "ip": "195.161.52.80",
+    "ips": [
+      "195.161.52.80"
+    ]
+  },
+  {
+    "hostname": "pgu.mos.ru",
+    "ip": "37.230.149.156",
+    "ips": [
+      "37.230.149.156",
+      "212.11.155.165",
+      "212.11.155.166",
+      "212.11.155.167",
+      "212.45.30.108"
+    ]
+  },
+  {
+    "hostname": "pickpoint.ru",
+    "ip": "95.213.217.168",
+    "ips": [
+      "95.213.217.168"
+    ]
+  },
+  {
+    "hostname": "pikabu.ru",
+    "ip": "185.178.210.201",
+    "ips": [
+      "185.178.210.201"
+    ]
+  },
+  {
+    "hostname": "piluli.ru",
+    "ip": "37.220.162.231",
+    "ips": [
+      "37.220.162.231",
+      "195.209.81.113",
+      "195.209.81.215",
+      "195.209.82.243"
+    ]
+  },
+  {
+    "hostname": "platformaofd.ru",
+    "ip": "185.170.207.30",
+    "ips": [
+      "185.170.207.30",
+      "195.3.180.201"
+    ]
+  },
+  {
+    "hostname": "platon.ru",
+    "ip": "83.169.194.21",
+    "ips": [
+      "83.169.194.21"
+    ]
+  },
+  {
+    "hostname": "pobeda.aero",
+    "ip": "91.231.236.240",
+    "ips": [
+      "91.231.236.240",
+      "185.31.113.248",
+      "194.190.0.152"
+    ]
+  },
+  {
+    "hostname": "pochta.ru",
+    "ip": "212.164.140.129",
+    "ips": [
+      "212.164.140.129",
+      "212.164.140.151",
+      "212.164.140.153"
+    ]
+  },
+  {
+    "hostname": "pochtabank.ru",
+    "ip": "195.242.82.14",
+    "ips": [
+      "195.242.82.14",
+      "195.242.83.14"
+    ]
+  },
+  {
+    "hostname": "pogoda.mail.ru",
+    "ip": "89.221.236.1",
+    "ips": [
+      "89.221.236.1"
+    ]
+  },
+  {
+    "hostname": "pokupki.market.yandex.ru",
+    "ip": "87.250.250.250",
+    "ips": [
+      "87.250.250.250"
+    ]
+  },
+  {
+    "hostname": "pos.gosuslugi.ru",
+    "ip": "109.207.9.85",
+    "ips": [
+      "109.207.9.85"
+    ]
+  },
+  {
+    "hostname": "postamat.ru",
+    "ip": "95.163.244.135",
+    "ips": [
+      "95.163.244.135"
+    ]
+  },
+  {
+    "hostname": "postupi.online",
+    "ip": "185.71.64.130",
+    "ips": [
+      "185.71.64.130"
+    ]
+  },
+  {
+    "hostname": "practicum.yandex.ru",
+    "ip": "87.250.250.5",
+    "ips": [
+      "87.250.250.5"
+    ]
+  },
+  {
+    "hostname": "pravo.gov.ru",
+    "ip": "95.173.147.130",
+    "ips": [
+      "95.173.147.130",
+      "95.173.157.130"
+    ]
+  },
+  {
+    "hostname": "premier.one",
+    "ip": "155.212.235.231",
+    "ips": [
+      "155.212.235.231",
+      "185.65.149.69"
+    ]
+  },
+  {
+    "hostname": "price.ru",
+    "ip": "91.215.43.202",
+    "ips": [
+      "91.215.43.202"
+    ]
+  },
+  {
+    "hostname": "privetmir.ru",
+    "ip": "185.170.3.30",
+    "ips": [
+      "185.170.3.30"
+    ]
+  },
+  {
+    "hostname": "prodoctorov.ru",
+    "ip": "91.221.164.73",
+    "ips": [
+      "91.221.164.73"
+    ]
+  },
+  {
+    "hostname": "profi.ru",
+    "ip": "185.186.186.140",
+    "ips": [
+      "185.186.186.140",
+      "185.186.186.141"
+    ]
+  },
+  {
+    "hostname": "promsvyazbank.ru",
+    "ip": "91.226.31.83",
+    "ips": [
+      "91.226.31.83"
+    ]
+  },
+  {
+    "hostname": "psbank.ru",
+    "ip": "193.200.10.123",
+    "ips": [
+      "193.200.10.123"
+    ]
+  },
+  {
+    "hostname": "psu.ru",
+    "ip": "46.146.231.187",
+    "ips": [
+      "46.146.231.187",
+      "212.192.64.44"
+    ]
+  },
+  {
+    "hostname": "ptsecurity.com",
+    "ip": "178.248.239.151",
+    "ips": [
+      "178.248.239.151"
+    ]
+  },
+  {
+    "hostname": "puzzle-english.com",
+    "ip": "95.181.181.4",
+    "ips": [
+      "95.181.181.4"
+    ]
+  },
+  {
+    "hostname": "qdelivery.ru",
+    "ip": "194.58.112.174",
+    "ips": [
+      "194.58.112.174"
+    ]
+  },
+  {
+    "hostname": "qiwi.com",
+    "ip": "91.232.230.50",
+    "ips": [
+      "91.232.230.50",
+      "91.232.230.126",
+      "91.232.230.139"
+    ]
+  },
+  {
+    "hostname": "qiwi.ru",
+    "ip": "91.232.230.48",
+    "ips": [
+      "91.232.230.48"
+    ]
+  },
+  {
+    "hostname": "r7-office.ru",
+    "ip": "91.215.43.128",
+    "ips": [
+      "91.215.43.128"
+    ]
+  },
+  {
+    "hostname": "rabota.ru",
+    "ip": "155.212.235.180",
+    "ips": [
+      "155.212.235.180"
+    ]
+  },
+  {
+    "hostname": "radiomayak.ru",
+    "ip": "80.247.40.24",
+    "ips": [
+      "80.247.40.24"
+    ]
+  },
+  {
+    "hostname": "raiffeisen.ru",
+    "ip": "193.28.44.8",
+    "ips": [
+      "193.28.44.8"
+    ]
+  },
+  {
+    "hostname": "rambler.ru",
+    "ip": "81.19.82.0",
+    "ips": [
+      "81.19.82.0",
+      "81.19.82.1",
+      "81.19.82.2"
+    ]
+  },
+  {
+    "hostname": "randewoo.ru",
+    "ip": "185.71.67.242",
+    "ips": [
+      "185.71.67.242",
+      "185.71.67.246"
+    ]
+  },
+  {
+    "hostname": "ranepa.ru",
+    "ip": "185.71.67.123",
+    "ips": [
+      "185.71.67.123"
+    ]
+  },
+  {
+    "hostname": "rbc.ru",
+    "ip": "178.248.235.46",
+    "ips": [
+      "178.248.235.46",
+      "178.248.235.102"
+    ]
+  },
+  {
+    "hostname": "rbk.ru",
+    "ip": "80.68.253.14",
+    "ips": [
+      "80.68.253.14",
+      "185.72.229.14"
+    ]
+  },
+  {
+    "hostname": "rea.ru",
+    "ip": "194.85.207.201",
+    "ips": [
+      "194.85.207.201"
+    ]
+  },
+  {
+    "hostname": "realty.yandex.ru",
+    "ip": "213.180.204.188",
+    "ips": [
+      "213.180.204.188"
+    ]
+  },
+  {
+    "hostname": "redos.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "reg.ru",
+    "ip": "194.67.72.31",
+    "ips": [
+      "194.67.72.31"
+    ]
+  },
+  {
+    "hostname": "reksoft.ru",
+    "ip": "37.140.192.41",
+    "ips": [
+      "37.140.192.41"
+    ]
+  },
+  {
+    "hostname": "ren.tv",
+    "ip": "185.178.208.3",
+    "ips": [
+      "185.178.208.3"
+    ]
+  },
+  {
+    "hostname": "renaissance.ru",
+    "ip": "87.226.166.137",
+    "ips": [
+      "87.226.166.137"
+    ]
+  },
+  {
+    "hostname": "rencredit.ru",
+    "ip": "109.238.90.130",
+    "ips": [
+      "109.238.90.130"
+    ]
+  },
+  {
+    "hostname": "rendez-vous.ru",
+    "ip": "213.33.155.164",
+    "ips": [
+      "213.33.155.164"
+    ]
+  },
+  {
+    "hostname": "renins.ru",
+    "ip": "155.212.234.79",
+    "ips": [
+      "155.212.234.79"
+    ]
+  },
+  {
+    "hostname": "resh.edu.ru",
+    "ip": "85.142.19.97",
+    "ips": [
+      "85.142.19.97",
+      "85.142.19.98"
+    ]
+  },
+  {
+    "hostname": "reshu.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "reso.ru",
+    "ip": "195.66.78.2",
+    "ips": [
+      "195.66.78.2"
+    ]
+  },
+  {
+    "hostname": "respect-shoes.ru",
+    "ip": "109.95.80.178",
+    "ips": [
+      "109.95.80.178"
+    ]
+  },
+  {
+    "hostname": "rg.ru",
+    "ip": "185.65.148.114",
+    "ips": [
+      "185.65.148.114"
+    ]
+  },
+  {
+    "hostname": "rggu.ru",
+    "ip": "213.167.56.234",
+    "ips": [
+      "213.167.56.234"
+    ]
+  },
+  {
+    "hostname": "rgs.ru",
+    "ip": "132.243.178.72",
+    "ips": [
+      "132.243.178.72"
+    ]
+  },
+  {
+    "hostname": "rgsu.ru",
+    "ip": "185.19.206.84",
+    "ips": [
+      "185.19.206.84"
+    ]
+  },
+  {
+    "hostname": "ria.ru",
+    "ip": "194.190.139.47",
+    "ips": [
+      "194.190.139.47"
+    ]
+  },
+  {
+    "hostname": "rigla.ru",
+    "ip": "178.248.236.73",
+    "ips": [
+      "178.248.236.73"
+    ]
+  },
+  {
+    "hostname": "rkn.gov.ru",
+    "ip": "212.192.156.40",
+    "ips": [
+      "212.192.156.40"
+    ]
+  },
+  {
+    "hostname": "rlsnet.ru",
+    "ip": "89.108.124.30",
+    "ips": [
+      "89.108.124.30"
+    ]
+  },
+  {
+    "hostname": "rnkb.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "rocketbank.ru",
+    "ip": "185.65.148.250",
+    "ips": [
+      "185.65.148.250"
+    ]
+  },
+  {
+    "hostname": "rosa.ru",
+    "ip": "77.105.159.134",
+    "ips": [
+      "77.105.159.134"
+    ]
+  },
+  {
+    "hostname": "rosagroleasing.ru",
+    "ip": "195.133.242.136",
+    "ips": [
+      "195.133.242.136"
+    ]
+  },
+  {
+    "hostname": "rosatom.ru",
+    "ip": "185.179.36.228",
+    "ips": [
+      "185.179.36.228"
+    ]
+  },
+  {
+    "hostname": "rosavtodor.ru",
+    "ip": "95.213.232.147",
+    "ips": [
+      "95.213.232.147"
+    ]
+  },
+  {
+    "hostname": "rosbank.ru",
+    "ip": "178.130.129.27",
+    "ips": [
+      "178.130.129.27",
+      "178.130.129.28"
+    ]
+  },
+  {
+    "hostname": "roscosmos.ru",
+    "ip": "95.181.181.29",
+    "ips": [
+      "95.181.181.29"
+    ]
+  },
+  {
+    "hostname": "roseltorg.ru",
+    "ip": "185.79.118.12",
+    "ips": [
+      "185.79.118.12"
+    ]
+  },
+  {
+    "hostname": "rosminzdrav.ru",
+    "ip": "194.0.219.107",
+    "ips": [
+      "194.0.219.107"
+    ]
+  },
+  {
+    "hostname": "rosnedra.gov.ru",
+    "ip": "185.183.174.2",
+    "ips": [
+      "185.183.174.2"
+    ]
+  },
+  {
+    "hostname": "rosneft.ru",
+    "ip": "91.142.135.123",
+    "ips": [
+      "91.142.135.123"
+    ]
+  },
+  {
+    "hostname": "rosoboronexport.ru",
+    "ip": "212.83.11.22",
+    "ips": [
+      "212.83.11.22"
+    ]
+  },
+  {
+    "hostname": "rospatent.gov.ru",
+    "ip": "194.226.89.113",
+    "ips": [
+      "194.226.89.113"
+    ]
+  },
+  {
+    "hostname": "rospotrebnadzor.ru",
+    "ip": "82.202.190.187",
+    "ips": [
+      "82.202.190.187"
+    ]
+  },
+  {
+    "hostname": "rosreestr.gov.ru",
+    "ip": "217.77.104.132",
+    "ips": [
+      "217.77.104.132",
+      "217.77.104.150"
+    ]
+  },
+  {
+    "hostname": "rosreestr.ru",
+    "ip": "217.77.104.132",
+    "ips": [
+      "217.77.104.132"
+    ]
+  },
+  {
+    "hostname": "rossiya-airlines.com",
+    "ip": "217.195.76.247",
+    "ips": [
+      "217.195.76.247"
+    ]
+  },
+  {
+    "hostname": "rosstat.gov.ru",
+    "ip": "194.226.89.60",
+    "ips": [
+      "194.226.89.60"
+    ]
+  },
+  {
+    "hostname": "rostec.ru",
+    "ip": "185.163.159.23",
+    "ips": [
+      "185.163.159.23"
+    ]
+  },
+  {
+    "hostname": "rostehnadzor.ru",
+    "ip": "95.163.244.135",
+    "ips": [
+      "95.163.244.135"
+    ]
+  },
+  {
+    "hostname": "rostelecom.ru",
+    "ip": "87.226.162.216",
+    "ips": [
+      "87.226.162.216"
+    ]
+  },
+  {
+    "hostname": "rostransnadzor.gov.ru",
+    "ip": "194.226.91.2",
+    "ips": [
+      "194.226.91.2"
+    ]
+  },
+  {
+    "hostname": "rpl.ru",
+    "ip": "91.218.244.105",
+    "ips": [
+      "91.218.244.105"
+    ]
+  },
+  {
+    "hostname": "rpn.gov.ru",
+    "ip": "176.211.43.200",
+    "ips": [
+      "176.211.43.200"
+    ]
+  },
+  {
+    "hostname": "rshb.ru",
+    "ip": "194.190.12.47",
+    "ips": [
+      "194.190.12.47",
+      "194.190.12.182"
+    ]
+  },
+  {
+    "hostname": "rshbins.ru",
+    "ip": "185.71.64.178",
+    "ips": [
+      "185.71.64.178"
+    ]
+  },
+  {
+    "hostname": "rsl.ru",
+    "ip": "195.74.82.212",
+    "ips": [
+      "195.74.82.212"
+    ]
+  },
+  {
+    "hostname": "rt-solar.ru",
+    "ip": "212.164.137.249",
+    "ips": [
+      "212.164.137.249"
+    ]
+  },
+  {
+    "hostname": "rt.com",
+    "ip": "91.215.41.4",
+    "ips": [
+      "91.215.41.4",
+      "185.79.236.174"
+    ]
+  },
+  {
+    "hostname": "rt.ru",
+    "ip": "87.226.162.216",
+    "ips": [
+      "87.226.162.216",
+      "95.167.23.6",
+      "213.59.197.6"
+    ]
+  },
+  {
+    "hostname": "rudn.ru",
+    "ip": "37.18.93.135",
+    "ips": [
+      "37.18.93.135"
+    ]
+  },
+  {
+    "hostname": "rusal.ru",
+    "ip": "193.233.63.42",
+    "ips": [
+      "193.233.63.42"
+    ]
+  },
+  {
+    "hostname": "rusfootball.info",
+    "ip": "176.99.14.23",
+    "ips": [
+      "176.99.14.23"
+    ]
+  },
+  {
+    "hostname": "rusprofile.ru",
+    "ip": "62.109.21.200",
+    "ips": [
+      "62.109.21.200",
+      "82.146.55.15"
+    ]
+  },
+  {
+    "hostname": "russia-24.ru",
+    "ip": "82.97.243.107",
+    "ips": [
+      "82.97.243.107"
+    ]
+  },
+  {
+    "hostname": "russia.tv",
+    "ip": "80.247.32.206",
+    "ips": [
+      "80.247.32.206",
+      "80.247.40.24"
+    ]
+  },
+  {
+    "hostname": "russian.rt.com",
+    "ip": "89.191.237.182",
+    "ips": [
+      "89.191.237.182",
+      "91.215.41.9",
+      "185.79.236.168"
+    ]
+  },
+  {
+    "hostname": "russianpost.ru",
+    "ip": "91.215.36.177",
+    "ips": [
+      "91.215.36.177"
+    ]
+  },
+  {
+    "hostname": "rutube.ru",
+    "ip": "109.238.90.239",
+    "ips": [
+      "109.238.90.239",
+      "178.248.233.148"
+    ]
+  },
+  {
+    "hostname": "rzd-bonus.ru",
+    "ip": "185.71.67.111",
+    "ips": [
+      "185.71.67.111"
+    ]
+  },
+  {
+    "hostname": "rzd-partner.ru",
+    "ip": "185.37.63.68",
+    "ips": [
+      "185.37.63.68"
+    ]
+  },
+  {
+    "hostname": "rzd.ru",
+    "ip": "212.164.138.120",
+    "ips": [
+      "212.164.138.120",
+      "212.164.138.121",
+      "212.164.138.122",
+      "212.164.138.123",
+      "212.164.138.124",
+      "212.164.138.125",
+      "212.164.138.126",
+      "212.164.138.127",
+      "212.164.138.128",
+      "212.164.138.129",
+      "212.164.138.130",
+      "212.164.138.131",
+      "212.164.140.170",
+      "212.164.140.180"
+    ]
+  },
+  {
+    "hostname": "s7.ru",
+    "ip": "155.212.234.239",
+    "ips": [
+      "155.212.234.239"
+    ]
+  },
+  {
+    "hostname": "samokat.ru",
+    "ip": "109.238.88.243",
+    "ips": [
+      "109.238.88.243"
+    ]
+  },
+  {
+    "hostname": "samsu.ru",
+    "ip": "91.222.128.11",
+    "ips": [
+      "91.222.128.11"
+    ]
+  },
+  {
+    "hostname": "sber.ru",
+    "ip": "84.252.149.198",
+    "ips": [
+      "84.252.149.198"
+    ]
+  },
+  {
+    "hostname": "sber.zvuk.com",
+    "ip": "91.221.164.24",
+    "ips": [
+      "91.221.164.24"
+    ]
+  },
+  {
+    "hostname": "sberbank-ast.ru",
+    "ip": "193.104.207.65",
+    "ips": [
+      "193.104.207.65"
+    ]
+  },
+  {
+    "hostname": "sberbank.com",
+    "ip": "84.252.149.206",
+    "ips": [
+      "84.252.149.206"
+    ]
+  },
+  {
+    "hostname": "sberbank.online",
+    "ip": "31.31.205.163",
+    "ips": [
+      "31.31.205.163"
+    ]
+  },
+  {
+    "hostname": "sberbank.ru",
+    "ip": "84.252.149.206",
+    "ips": [
+      "84.252.149.206"
+    ]
+  },
+  {
+    "hostname": "sbercloud.ru",
+    "ip": "185.71.64.201",
+    "ips": [
+      "185.71.64.201"
+    ]
+  },
+  {
+    "hostname": "sberhealth.ru",
+    "ip": "91.206.127.224",
+    "ips": [
+      "91.206.127.224"
+    ]
+  },
+  {
+    "hostname": "sberleasing.ru",
+    "ip": "185.71.64.66",
+    "ips": [
+      "185.71.64.66"
+    ]
+  },
+  {
+    "hostname": "sbermarket.ru",
+    "ip": "195.208.66.164",
+    "ips": [
+      "195.208.66.164"
+    ]
+  },
+  {
+    "hostname": "sbermegamarket.ru",
+    "ip": "91.206.127.39",
+    "ips": [
+      "91.206.127.39"
+    ]
+  },
+  {
+    "hostname": "sbermobile.ru",
+    "ip": "185.163.159.108",
+    "ips": [
+      "185.163.159.108"
+    ]
+  },
+  {
+    "hostname": "sbertech.ru",
+    "ip": "185.65.149.227",
+    "ips": [
+      "185.65.149.227"
+    ]
+  },
+  {
+    "hostname": "sbis.ru",
+    "ip": "91.213.144.237",
+    "ips": [
+      "91.213.144.237"
+    ]
+  },
+  {
+    "hostname": "sbp.nspk.ru",
+    "ip": "194.190.0.23",
+    "ips": [
+      "194.190.0.23"
+    ]
+  },
+  {
+    "hostname": "school.mosreg.ru",
+    "ip": "82.202.190.91",
+    "ips": [
+      "82.202.190.91"
+    ]
+  },
+  {
+    "hostname": "sdamgia.ru",
+    "ip": "95.129.236.219",
+    "ips": [
+      "95.129.236.219"
+    ]
+  },
+  {
+    "hostname": "sdek.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "searchinform.ru",
+    "ip": "94.26.239.24",
+    "ips": [
+      "94.26.239.24"
+    ]
+  },
+  {
+    "hostname": "secretmag.ru",
+    "ip": "81.19.72.12",
+    "ips": [
+      "81.19.72.12",
+      "81.19.72.13",
+      "81.19.72.14",
+      "81.19.72.15"
+    ]
+  },
+  {
+    "hostname": "selectel.ru",
+    "ip": "85.119.149.3",
+    "ips": [
+      "85.119.149.3"
+    ]
+  },
+  {
+    "hostname": "seller.ozon.ru",
+    "ip": "185.73.193.68",
+    "ips": [
+      "185.73.193.68",
+      "185.73.194.82"
+    ]
+  },
+  {
+    "hostname": "seller.wildberries.ru",
+    "ip": "194.1.214.253",
+    "ips": [
+      "194.1.214.253"
+    ]
+  },
+  {
+    "hostname": "service.nalog.ru",
+    "ip": "213.24.64.140",
+    "ips": [
+      "213.24.64.140"
+    ]
+  },
+  {
+    "hostname": "severstal.ru",
+    "ip": "217.175.24.112",
+    "ips": [
+      "217.175.24.112"
+    ]
+  },
+  {
+    "hostname": "sfedu.ru",
+    "ip": "195.208.245.190",
+    "ips": [
+      "195.208.245.190"
+    ]
+  },
+  {
+    "hostname": "sferabank.ru",
+    "ip": "95.163.244.135",
+    "ips": [
+      "95.163.244.135"
+    ]
+  },
+  {
+    "hostname": "sfr.gov.ru",
+    "ip": "195.161.52.80",
+    "ips": [
+      "195.161.52.80"
+    ]
+  },
+  {
+    "hostname": "shiptor.ru",
+    "ip": "185.169.155.141",
+    "ips": [
+      "185.169.155.141"
+    ]
+  },
+  {
+    "hostname": "sibur.ru",
+    "ip": "178.248.232.145",
+    "ips": [
+      "178.248.232.145"
+    ]
+  },
+  {
+    "hostname": "sipuni.com",
+    "ip": "193.227.98.106",
+    "ips": [
+      "193.227.98.106"
+    ]
+  },
+  {
+    "hostname": "skillbox.ru",
+    "ip": "185.65.148.253",
+    "ips": [
+      "185.65.148.253"
+    ]
+  },
+  {
+    "hostname": "skyeng.ru",
+    "ip": "95.213.153.98",
+    "ips": [
+      "95.213.153.98",
+      "95.213.153.99",
+      "95.213.156.181",
+      "95.213.156.182",
+      "178.248.234.206"
+    ]
+  },
+  {
+    "hostname": "skylink.ru",
+    "ip": "37.220.161.237",
+    "ips": [
+      "37.220.161.237",
+      "78.41.111.34",
+      "78.41.111.160",
+      "212.193.152.39",
+      "212.193.152.165",
+      "212.193.152.252",
+      "212.193.153.124"
+    ]
+  },
+  {
+    "hostname": "sledcom.ru",
+    "ip": "81.177.122.5",
+    "ips": [
+      "81.177.122.5"
+    ]
+  },
+  {
+    "hostname": "sm-clinic.ru",
+    "ip": "77.222.40.132",
+    "ips": [
+      "77.222.40.132"
+    ]
+  },
+  {
+    "hostname": "smotrim.ru",
+    "ip": "178.248.234.241",
+    "ips": [
+      "178.248.234.241"
+    ]
+  },
+  {
+    "hostname": "snob.ru",
+    "ip": "31.186.102.100",
+    "ips": [
+      "31.186.102.100"
+    ]
+  },
+  {
+    "hostname": "softline.ru",
+    "ip": "91.206.127.102",
+    "ips": [
+      "91.206.127.102"
+    ]
+  },
+  {
+    "hostname": "sogaz.ru",
+    "ip": "185.173.80.30",
+    "ips": [
+      "185.173.80.30"
+    ]
+  },
+  {
+    "hostname": "sovcombank.ru",
+    "ip": "178.248.233.80",
+    "ips": [
+      "178.248.233.80"
+    ]
+  },
+  {
+    "hostname": "spark-interfax.ru",
+    "ip": "46.28.16.112",
+    "ips": [
+      "46.28.16.112"
+    ]
+  },
+  {
+    "hostname": "spartak.com",
+    "ip": "51.250.108.116",
+    "ips": [
+      "51.250.108.116",
+      "91.221.164.151"
+    ]
+  },
+  {
+    "hostname": "spbex.ru",
+    "ip": "185.71.64.129",
+    "ips": [
+      "185.71.64.129"
+    ]
+  },
+  {
+    "hostname": "spbexchange.ru",
+    "ip": "185.71.64.226",
+    "ips": [
+      "185.71.64.226"
+    ]
+  },
+  {
+    "hostname": "spbstu.ru",
+    "ip": "194.190.225.181",
+    "ips": [
+      "194.190.225.181"
+    ]
+  },
+  {
+    "hostname": "spbtv.com",
+    "ip": "31.31.197.32",
+    "ips": [
+      "31.31.197.32"
+    ]
+  },
+  {
+    "hostname": "spbu.ru",
+    "ip": "195.70.219.100",
+    "ips": [
+      "195.70.219.100"
+    ]
+  },
+  {
+    "hostname": "sport-express.ru",
+    "ip": "95.129.236.96",
+    "ips": [
+      "95.129.236.96"
+    ]
+  },
+  {
+    "hostname": "sportbox.ru",
+    "ip": "95.181.177.111",
+    "ips": [
+      "95.181.177.111"
+    ]
+  },
+  {
+    "hostname": "sportmail.ru",
+    "ip": "89.221.236.2",
+    "ips": [
+      "89.221.236.2"
+    ]
+  },
+  {
+    "hostname": "sportmaster.ru",
+    "ip": "178.248.232.80",
+    "ips": [
+      "178.248.232.80"
+    ]
+  },
+  {
+    "hostname": "sports.ru",
+    "ip": "95.129.232.128",
+    "ips": [
+      "95.129.232.128"
+    ]
+  },
+  {
+    "hostname": "sputniknews.ru",
+    "ip": "194.190.139.38",
+    "ips": [
+      "194.190.139.38"
+    ]
+  },
+  {
+    "hostname": "sravni.ru",
+    "ip": "194.190.0.239",
+    "ips": [
+      "194.190.0.239"
+    ]
+  },
+  {
+    "hostname": "ssau.ru",
+    "ip": "91.222.130.250",
+    "ips": [
+      "91.222.130.250"
+    ]
+  },
+  {
+    "hostname": "st.kp.yandex.net",
+    "ip": "213.180.199.9",
+    "ips": [
+      "213.180.199.9"
+    ]
+  },
+  {
+    "hostname": "start.ru",
+    "ip": "185.243.86.7",
+    "ips": [
+      "185.243.86.7"
+    ]
+  },
+  {
+    "hostname": "stepik.org",
+    "ip": "178.248.239.111",
+    "ips": [
+      "178.248.239.111"
+    ]
+  },
+  {
+    "hostname": "stolichki.ru",
+    "ip": "109.238.88.146",
+    "ips": [
+      "109.238.88.146"
+    ]
+  },
+  {
+    "hostname": "storage.yandexcloud.net",
+    "ip": "213.180.193.243",
+    "ips": [
+      "213.180.193.243"
+    ]
+  },
+  {
+    "hostname": "strm.yandex.ru",
+    "ip": "87.250.254.45",
+    "ips": [
+      "87.250.254.45"
+    ]
+  },
+  {
+    "hostname": "superjob.ru",
+    "ip": "185.71.67.17",
+    "ips": [
+      "185.71.67.17"
+    ]
+  },
+  {
+    "hostname": "surgutneftegaz.ru",
+    "ip": "185.22.155.27",
+    "ips": [
+      "185.22.155.27"
+    ]
+  },
+  {
+    "hostname": "sutochno.ru",
+    "ip": "194.190.0.245",
+    "ips": [
+      "194.190.0.245"
+    ]
+  },
+  {
+    "hostname": "svyaznoy.ru",
+    "ip": "91.199.80.126",
+    "ips": [
+      "91.199.80.126",
+      "91.199.80.127"
+    ]
+  },
+  {
+    "hostname": "synerdocs.ru",
+    "ip": "194.113.237.238",
+    "ips": [
+      "194.113.237.238"
+    ]
+  },
+  {
+    "hostname": "t2.ru",
+    "ip": "37.220.161.64",
+    "ips": [
+      "37.220.161.64",
+      "37.220.163.23",
+      "78.41.110.143",
+      "78.41.111.223",
+      "212.193.152.80"
+    ]
+  },
+  {
+    "hostname": "tabletka.ru",
+    "ip": "95.129.237.124",
+    "ips": [
+      "95.129.237.124"
+    ]
+  },
+  {
+    "hostname": "takzdorovo.ru",
+    "ip": "91.215.43.100",
+    "ips": [
+      "91.215.43.100"
+    ]
+  },
+  {
+    "hostname": "tass.ru",
+    "ip": "91.221.165.90",
+    "ips": [
+      "91.221.165.90",
+      "91.221.165.118"
+    ]
+  },
+  {
+    "hostname": "tatneft.ru",
+    "ip": "82.202.189.14",
+    "ips": [
+      "82.202.189.14"
+    ]
+  },
+  {
+    "hostname": "taxcom.ru",
+    "ip": "193.0.214.48",
+    "ips": [
+      "193.0.214.48"
+    ]
+  },
+  {
+    "hostname": "taxi.yandex.ru",
+    "ip": "37.9.112.5",
+    "ips": [
+      "37.9.112.5",
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "tbank.ru",
+    "ip": "178.130.128.27",
+    "ips": [
+      "178.130.128.27"
+    ]
+  },
+  {
+    "hostname": "technopark.ru",
+    "ip": "178.248.235.59",
+    "ips": [
+      "178.248.235.59"
+    ]
+  },
+  {
+    "hostname": "tele2.ru",
+    "ip": "37.220.161.212",
+    "ips": [
+      "37.220.161.212",
+      "46.235.190.98",
+      "78.41.111.37",
+      "78.41.111.154",
+      "212.193.152.85",
+      "212.193.152.137"
+    ]
+  },
+  {
+    "hostname": "tensor.ru",
+    "ip": "91.232.93.39",
+    "ips": [
+      "91.232.93.39"
+    ]
+  },
+  {
+    "hostname": "ticket.rzd.ru",
+    "ip": "212.164.138.120",
+    "ips": [
+      "212.164.138.120",
+      "212.164.138.121",
+      "212.164.138.122",
+      "212.164.138.123",
+      "212.164.138.124",
+      "212.164.138.125",
+      "212.164.138.126",
+      "212.164.138.127",
+      "212.164.138.128",
+      "212.164.138.129",
+      "212.164.138.130",
+      "212.164.138.131",
+      "212.164.140.170",
+      "212.164.140.180"
+    ]
+  },
+  {
+    "hostname": "timeweb.com",
+    "ip": "185.65.148.89",
+    "ips": [
+      "185.65.148.89"
+    ]
+  },
+  {
+    "hostname": "timeweb.ru",
+    "ip": "185.65.148.89",
+    "ips": [
+      "185.65.148.89"
+    ]
+  },
+  {
+    "hostname": "tinkoff.ru",
+    "ip": "178.130.128.27",
+    "ips": [
+      "178.130.128.27"
+    ]
+  },
+  {
+    "hostname": "tinkoffinsurance.ru",
+    "ip": "178.130.128.27",
+    "ips": [
+      "178.130.128.27"
+    ]
+  },
+  {
+    "hostname": "tmk.ru",
+    "ip": "89.253.240.17",
+    "ips": [
+      "89.253.240.17"
+    ]
+  },
+  {
+    "hostname": "tnt-online.ru",
+    "ip": "185.65.148.81",
+    "ips": [
+      "185.65.148.81"
+    ]
+  },
+  {
+    "hostname": "tochka.com",
+    "ip": "91.206.127.19",
+    "ips": [
+      "91.206.127.19"
+    ]
+  },
+  {
+    "hostname": "torg.mail.ru",
+    "ip": "95.163.61.109",
+    "ips": [
+      "95.163.61.109"
+    ]
+  },
+  {
+    "hostname": "torgi.gov.ru",
+    "ip": "95.167.245.141",
+    "ips": [
+      "95.167.245.141"
+    ]
+  },
+  {
+    "hostname": "tpu.ru",
+    "ip": "178.248.238.227",
+    "ips": [
+      "178.248.238.227"
+    ]
+  },
+  {
+    "hostname": "track24.ru",
+    "ip": "212.233.76.133",
+    "ips": [
+      "212.233.76.133"
+    ]
+  },
+  {
+    "hostname": "trackitonline.ru",
+    "ip": "91.242.33.35",
+    "ips": [
+      "91.242.33.35"
+    ]
+  },
+  {
+    "hostname": "translate.yandex.ru",
+    "ip": "213.180.204.193",
+    "ips": [
+      "213.180.204.193"
+    ]
+  },
+  {
+    "hostname": "transneft.ru",
+    "ip": "212.164.138.253",
+    "ips": [
+      "212.164.138.253"
+    ]
+  },
+  {
+    "hostname": "transport.yandex.ru",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "travel.yandex.ru",
+    "ip": "93.158.134.81",
+    "ips": [
+      "93.158.134.81",
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "tricolor.tv",
+    "ip": "185.71.67.21",
+    "ips": [
+      "185.71.67.21"
+    ]
+  },
+  {
+    "hostname": "tsu.ru",
+    "ip": "91.215.43.223",
+    "ips": [
+      "91.215.43.223"
+    ]
+  },
+  {
+    "hostname": "ttk.ru",
+    "ip": "62.33.186.12",
+    "ips": [
+      "62.33.186.12"
+    ]
+  },
+  {
+    "hostname": "tutu.ru",
+    "ip": "178.248.234.61",
+    "ips": [
+      "178.248.234.61"
+    ]
+  },
+  {
+    "hostname": "tv.mail.ru",
+    "ip": "95.163.61.112",
+    "ips": [
+      "95.163.61.112"
+    ]
+  },
+  {
+    "hostname": "tvc.ru",
+    "ip": "178.248.233.127",
+    "ips": [
+      "178.248.233.127"
+    ]
+  },
+  {
+    "hostname": "tvzvezda.ru",
+    "ip": "95.129.232.3",
+    "ips": [
+      "95.129.232.3"
+    ]
+  },
+  {
+    "hostname": "uaz.ru",
+    "ip": "79.143.30.16",
+    "ips": [
+      "79.143.30.16"
+    ]
+  },
+  {
+    "hostname": "ucheba.ru",
+    "ip": "212.74.251.101",
+    "ips": [
+      "212.74.251.101"
+    ]
+  },
+  {
+    "hostname": "uchi.ru",
+    "ip": "109.238.90.119",
+    "ips": [
+      "109.238.90.119"
+    ]
+  },
+  {
+    "hostname": "udmurt.ru",
+    "ip": "86.109.210.185",
+    "ips": [
+      "86.109.210.185"
+    ]
+  },
+  {
+    "hostname": "udsu.ru",
+    "ip": "94.25.116.37",
+    "ips": [
+      "94.25.116.37"
+    ]
+  },
+  {
+    "hostname": "ufanet.ru",
+    "ip": "77.79.136.70",
+    "ips": [
+      "77.79.136.70",
+      "81.30.199.238"
+    ]
+  },
+  {
+    "hostname": "unicredit.ru",
+    "ip": "195.19.94.77",
+    "ips": [
+      "195.19.94.77"
+    ]
+  },
+  {
+    "hostname": "uralairlines.ru",
+    "ip": "178.248.239.188",
+    "ips": [
+      "178.248.239.188"
+    ]
+  },
+  {
+    "hostname": "uralsib.ru",
+    "ip": "185.71.67.109",
+    "ips": [
+      "185.71.67.109"
+    ]
+  },
+  {
+    "hostname": "urent.ru",
+    "ip": "51.250.122.254",
+    "ips": [
+      "51.250.122.254"
+    ]
+  },
+  {
+    "hostname": "urfu.ru",
+    "ip": "93.88.179.201",
+    "ips": [
+      "93.88.179.201"
+    ]
+  },
+  {
+    "hostname": "userapi.com",
+    "ip": "87.240.129.187",
+    "ips": [
+      "87.240.129.187",
+      "87.240.190.64"
+    ]
+  },
+  {
+    "hostname": "usergate.com",
+    "ip": "46.229.79.20",
+    "ips": [
+      "46.229.79.20"
+    ]
+  },
+  {
+    "hostname": "uslugi.tatarstan.ru",
+    "ip": "85.233.75.14",
+    "ips": [
+      "85.233.75.14"
+    ]
+  },
+  {
+    "hostname": "utair.ru",
+    "ip": "178.248.236.201",
+    "ips": [
+      "178.248.236.201"
+    ]
+  },
+  {
+    "hostname": "vc.ru",
+    "ip": "185.65.149.135",
+    "ips": [
+      "185.65.149.135"
+    ]
+  },
+  {
+    "hostname": "veb.ru",
+    "ip": "178.248.239.115",
+    "ips": [
+      "178.248.239.115"
+    ]
+  },
+  {
+    "hostname": "vedomosti.ru",
+    "ip": "185.65.148.33",
+    "ips": [
+      "185.65.148.33"
+    ]
+  },
+  {
+    "hostname": "verno.ru",
+    "ip": "188.225.23.150",
+    "ips": [
+      "188.225.23.150"
+    ]
+  },
+  {
+    "hostname": "vesti.ru",
+    "ip": "178.248.233.57",
+    "ips": [
+      "178.248.233.57"
+    ]
+  },
+  {
+    "hostname": "vgtrk.com",
+    "ip": "185.65.150.49",
+    "ips": [
+      "185.65.150.49"
+    ]
+  },
+  {
+    "hostname": "vidal.ru",
+    "ip": "95.213.136.198",
+    "ips": [
+      "95.213.136.198"
+    ]
+  },
+  {
+    "hostname": "videouroki.net",
+    "ip": "95.129.237.199",
+    "ips": [
+      "95.129.237.199"
+    ]
+  },
+  {
+    "hostname": "vk.com",
+    "ip": "87.240.129.133",
+    "ips": [
+      "87.240.129.133",
+      "87.240.132.67",
+      "87.240.132.72",
+      "87.240.132.78",
+      "87.240.137.164",
+      "93.186.225.194"
+    ]
+  },
+  {
+    "hostname": "vk.company",
+    "ip": "89.221.239.148",
+    "ips": [
+      "89.221.239.148"
+    ]
+  },
+  {
+    "hostname": "vk.ru",
+    "ip": "87.240.129.133",
+    "ips": [
+      "87.240.129.133",
+      "87.240.132.67",
+      "87.240.132.72",
+      "87.240.132.78",
+      "87.240.137.164",
+      "93.186.225.194"
+    ]
+  },
+  {
+    "hostname": "vkontakte.ru",
+    "ip": "87.240.129.133",
+    "ips": [
+      "87.240.129.133",
+      "87.240.132.67",
+      "87.240.132.72",
+      "87.240.132.78",
+      "87.240.137.164",
+      "93.186.225.194"
+    ]
+  },
+  {
+    "hostname": "vkplay.ru",
+    "ip": "95.163.61.43",
+    "ips": [
+      "95.163.61.43"
+    ]
+  },
+  {
+    "hostname": "vkteams.ru",
+    "ip": "46.148.232.104",
+    "ips": [
+      "46.148.232.104"
+    ]
+  },
+  {
+    "hostname": "vkuser.net",
+    "ip": "95.213.37.126",
+    "ips": [
+      "95.213.37.126"
+    ]
+  },
+  {
+    "hostname": "vkuseraudio.net",
+    "ip": "87.240.129.187",
+    "ips": [
+      "87.240.129.187",
+      "87.240.190.64"
+    ]
+  },
+  {
+    "hostname": "vkuservideo.net",
+    "ip": "87.240.129.187",
+    "ips": [
+      "87.240.129.187",
+      "87.240.190.64"
+    ]
+  },
+  {
+    "hostname": "vkusnoitochka.ru",
+    "ip": "185.65.148.127",
+    "ips": [
+      "185.65.148.127",
+      "185.65.149.127"
+    ]
+  },
+  {
+    "hostname": "vkusvill.ru",
+    "ip": "178.248.232.221",
+    "ips": [
+      "178.248.232.221"
+    ]
+  },
+  {
+    "hostname": "vkvideo.ru",
+    "ip": "87.240.129.133",
+    "ips": [
+      "87.240.129.133",
+      "87.240.132.67",
+      "87.240.132.72",
+      "87.240.132.78",
+      "87.240.137.164",
+      "93.186.225.194"
+    ]
+  },
+  {
+    "hostname": "volnamobile.ru",
+    "ip": "185.15.39.100",
+    "ips": [
+      "185.15.39.100"
+    ]
+  },
+  {
+    "hostname": "vprok.ru",
+    "ip": "195.208.66.112",
+    "ips": [
+      "195.208.66.112"
+    ]
+  },
+  {
+    "hostname": "vseinstrumenti.ru",
+    "ip": "185.169.155.85",
+    "ips": [
+      "185.169.155.85"
+    ]
+  },
+  {
+    "hostname": "vsk.ru",
+    "ip": "185.71.67.58",
+    "ips": [
+      "185.71.67.58"
+    ]
+  },
+  {
+    "hostname": "vsrf.ru",
+    "ip": "95.173.156.120",
+    "ips": [
+      "95.173.156.120"
+    ]
+  },
+  {
+    "hostname": "vtb-capital.ru",
+    "ip": "185.135.83.132",
+    "ips": [
+      "185.135.83.132"
+    ]
+  },
+  {
+    "hostname": "vtb.ru",
+    "ip": "195.242.82.13",
+    "ips": [
+      "195.242.82.13",
+      "195.242.83.13"
+    ]
+  },
+  {
+    "hostname": "vtb24.ru",
+    "ip": "217.14.50.179",
+    "ips": [
+      "217.14.50.179"
+    ]
+  },
+  {
+    "hostname": "vtbins.ru",
+    "ip": "185.173.80.60",
+    "ips": [
+      "185.173.80.60"
+    ]
+  },
+  {
+    "hostname": "vtbleasing.ru",
+    "ip": "193.164.146.24",
+    "ips": [
+      "193.164.146.24"
+    ]
+  },
+  {
+    "hostname": "vuzopedia.ru",
+    "ip": "109.172.113.210",
+    "ips": [
+      "109.172.113.210"
+    ]
+  },
+  {
+    "hostname": "wb.ru",
+    "ip": "185.138.253.1",
+    "ips": [
+      "185.138.253.1",
+      "185.138.255.1",
+      "213.184.155.142"
+    ]
+  },
+  {
+    "hostname": "wbstatic.net",
+    "ip": "185.62.201.169",
+    "ips": [
+      "185.62.201.169",
+      "185.62.201.170",
+      "185.62.201.171"
+    ]
+  },
+  {
+    "hostname": "wciom.ru",
+    "ip": "178.154.245.200",
+    "ips": [
+      "178.154.245.200",
+      "212.164.140.131",
+      "212.164.140.141"
+    ]
+  },
+  {
+    "hostname": "weather.yandex.ru",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "web.alfabank.ru",
+    "ip": "217.12.98.153",
+    "ips": [
+      "217.12.98.153"
+    ]
+  },
+  {
+    "hostname": "webmoney.ru",
+    "ip": "91.227.52.111",
+    "ips": [
+      "91.227.52.111",
+      "188.127.231.79"
+    ]
+  },
+  {
+    "hostname": "wer.ru",
+    "ip": "91.215.43.206",
+    "ips": [
+      "91.215.43.206"
+    ]
+  },
+  {
+    "hostname": "whoosh.bike",
+    "ip": "185.129.100.112",
+    "ips": [
+      "185.129.100.112"
+    ]
+  },
+  {
+    "hostname": "wifire.ru",
+    "ip": "89.20.149.117",
+    "ips": [
+      "89.20.149.117"
+    ]
+  },
+  {
+    "hostname": "wildberries.ru",
+    "ip": "185.62.202.2",
+    "ips": [
+      "185.62.202.2"
+    ]
+  },
+  {
+    "hostname": "wink.ru",
+    "ip": "46.235.186.234",
+    "ips": [
+      "46.235.186.234",
+      "46.235.186.238",
+      "46.235.189.201",
+      "195.209.80.198",
+      "195.209.80.201",
+      "212.193.153.133",
+      "212.193.153.141",
+      "212.193.153.154",
+      "212.193.157.252"
+    ]
+  },
+  {
+    "hostname": "x5.ru",
+    "ip": "91.206.100.17",
+    "ips": [
+      "91.206.100.17"
+    ]
+  },
+  {
+    "hostname": "ya.ru",
+    "ip": "5.255.255.242",
+    "ips": [
+      "5.255.255.242",
+      "77.88.44.242",
+      "77.88.55.242"
+    ]
+  },
+  {
+    "hostname": "yadro.ru",
+    "ip": "88.212.196.78",
+    "ips": [
+      "88.212.196.78"
+    ]
+  },
+  {
+    "hostname": "yaklass.ru",
+    "ip": "109.238.88.251",
+    "ips": [
+      "109.238.88.251"
+    ]
+  },
+  {
+    "hostname": "yakutia.aero",
+    "ip": "195.208.66.33",
+    "ips": [
+      "195.208.66.33"
+    ]
+  },
+  {
+    "hostname": "yandex.cloud",
+    "ip": "87.250.250.108",
+    "ips": [
+      "87.250.250.108"
+    ]
+  },
+  {
+    "hostname": "yandex.com",
+    "ip": "5.255.255.77",
+    "ips": [
+      "5.255.255.77",
+      "77.88.44.55",
+      "77.88.55.88"
+    ]
+  },
+  {
+    "hostname": "yandex.net",
+    "ip": "213.180.204.242",
+    "ips": [
+      "213.180.204.242"
+    ]
+  },
+  {
+    "hostname": "yandex.ru",
+    "ip": "5.255.255.77",
+    "ips": [
+      "5.255.255.77",
+      "77.88.44.55",
+      "77.88.55.88"
+    ]
+  },
+  {
+    "hostname": "yastatic.net",
+    "ip": "37.9.64.225",
+    "ips": [
+      "37.9.64.225"
+    ]
+  },
+  {
+    "hostname": "yoomoney.ru",
+    "ip": "109.235.165.222",
+    "ips": [
+      "109.235.165.222",
+      "185.71.78.222"
+    ]
+  },
+  {
+    "hostname": "yota.ru",
+    "ip": "188.170.66.11",
+    "ips": [
+      "188.170.66.11",
+      "188.170.66.75"
+    ]
+  },
+  {
+    "hostname": "youdo.com",
+    "ip": "91.206.127.88",
+    "ips": [
+      "91.206.127.88"
+    ]
+  },
+  {
+    "hostname": "youla.ru",
+    "ip": "95.163.61.105",
+    "ips": [
+      "95.163.61.105"
+    ]
+  },
+  {
+    "hostname": "zakupki.gov.ru",
+    "ip": "95.167.245.92",
+    "ips": [
+      "95.167.245.92"
+    ]
+  },
+  {
+    "hostname": "zarplata.ru",
+    "ip": "94.124.200.1",
+    "ips": [
+      "94.124.200.1"
+    ]
+  },
+  {
+    "hostname": "zdravcity.ru",
+    "ip": "185.178.208.215",
+    "ips": [
+      "185.178.208.215"
+    ]
+  },
+  {
+    "hostname": "zebra-telecom.ru",
+    "ip": "62.122.170.171",
+    "ips": [
+      "62.122.170.171"
+    ]
+  },
+  {
+    "hostname": "zen.yandex.ru",
+    "ip": "87.250.254.116",
+    "ips": [
+      "87.250.254.116"
+    ]
+  },
+  {
+    "hostname": "zenit.ru",
+    "ip": "185.71.64.169",
+    "ips": [
+      "185.71.64.169"
+    ]
+  },
+  {
+    "hostname": "zvuk.com",
+    "ip": "91.221.164.24",
+    "ips": [
+      "91.221.164.24",
+      "178.170.192.49"
+    ]
+  },
+  {
+    "hostname": "5.45.192.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "5.61.16.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "5.61.232.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "5.101.40.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "5.143.238.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "5.181.60.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "5.188.57.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "5.188.118.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "5.188.140.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "5.188.161.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "5.252.32.223",
+    "ip": ""
+  },
+  {
+    "hostname": "5.255.192.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "31.31.196.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "31.31.199.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "31.31.205.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "31.44.8.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "31.130.140.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "31.130.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "31.132.32.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "31.132.34.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "31.177.104.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "31.186.102.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.9.64.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "37.18.93.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.130.193.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.139.32.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "37.139.38.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.139.40.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "37.140.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "37.140.192.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.220.161.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.220.162.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "37.230.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "37.230.168.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "37.230.172.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "37.230.209.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "45.67.58.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "45.84.128.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "45.130.41.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "45.136.20.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "45.155.105.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.17.203.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.17.206.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.21.244.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "46.21.255.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.28.16.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.28.18.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.29.118.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.61.214.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.146.231.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.148.228.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.148.232.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.174.142.14",
+    "ip": ""
+  },
+  {
+    "hostname": "46.226.122.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.229.79.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.235.184.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "46.235.186.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.235.188.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "46.235.190.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.243.177.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.243.209.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "46.243.210.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "51.250.0.0/17",
+    "ip": ""
+  },
+  {
+    "hostname": "62.33.186.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.76.11.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.84.112.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "62.109.11.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.109.21.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.118.248.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.122.170.171",
+    "ip": ""
+  },
+  {
+    "hostname": "62.148.128.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "62.217.160.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "77.79.136.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "77.88.0.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "77.105.159.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "77.222.40.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "77.244.222.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "78.40.217.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "78.41.110.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "78.155.198.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.132.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.139.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.157.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.164.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.167.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.174.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.180.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.183.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "79.137.240.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "79.143.30.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.66.92.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "80.67.40.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "80.68.253.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.92.32.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "80.92.36.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "80.92.39.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.94.84.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "80.243.79.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.247.32.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.247.40.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "80.250.169.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.19.64.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "81.22.46.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.26.176.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "81.29.135.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.30.199.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.161.98.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.177.122.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.177.164.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "81.177.220.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.97.243.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.146.55.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.147.65.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.162.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.170.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.189.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.190.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.213.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.230.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.202.255.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "82.204.188.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "83.166.232.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "83.166.248.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "83.169.194.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "83.217.216.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "83.222.28.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "83.242.98.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "84.23.52.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "84.42.111.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "84.201.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "84.237.49.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.128.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.144.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.150.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.152.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "84.252.160.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "85.118.181.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.119.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.142.19.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.142.115.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.143.112.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.158.185.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.192.32.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "85.193.70.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.198.76.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "85.209.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "85.233.75.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "86.109.210.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.226.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.226.162.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.226.166.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.228.12.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.236.16.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.239.104.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "87.240.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "87.242.112.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "87.249.32.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "87.250.224.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "87.251.92.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "88.212.196.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.20.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.22.171.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.104.87.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.104.112.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "89.108.122.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.108.124.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.169.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "89.175.190.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.191.237.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.84.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.196.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.208.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.216.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.226.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "89.208.228.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "89.221.228.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "89.221.232.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "89.232.188.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "89.253.240.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.148.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.176.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.206.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.212.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.216.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.232.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "90.156.247.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.109.201.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.109.202.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.109.204.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.109.206.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.142.135.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.194.226.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "91.197.176.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.199.80.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.199.149.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.201.52.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.201.237.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.205.183.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.206.100.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "91.206.127.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.212.64.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.213.144.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.214.119.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.215.36.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.215.41.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.215.42.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "91.217.194.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.218.132.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "91.218.244.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.219.224.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "91.220.133.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.221.109.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.221.164.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "91.222.128.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.222.130.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.223.93.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.226.31.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.227.52.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.227.91.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.230.107.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.231.132.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "91.231.236.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.232.6.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.232.93.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.232.135.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.232.230.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.233.216.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "91.236.51.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "91.242.33.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.38.217.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.53.96.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.255.1.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.255.3.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.255.13.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.255.15.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "92.255.112.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "93.77.160.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "93.88.179.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "93.91.8.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "93.92.113.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "93.95.101.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "93.158.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "93.186.224.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "93.189.47.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "94.25.116.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "94.26.239.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "94.79.51.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "94.100.176.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "94.124.200.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "94.124.206.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "94.139.244.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "94.140.200.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "95.108.128.0/17",
+    "ip": ""
+  },
+  {
+    "hostname": "95.129.232.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.129.236.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "95.142.192.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "95.161.182.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.32.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.133.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.159.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.180.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.208.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.216.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.227.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.244.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.163.248.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "95.167.23.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.167.154.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.167.220.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.167.245.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.170.128.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.128.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.130.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.132.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.136.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.146.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.151.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.173.156.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "95.181.177.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.181.181.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.181.182.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.0.0/17",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.136.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.153.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.156.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.217.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "95.213.232.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "103.76.52.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "109.95.80.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.120.180.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "109.120.188.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "109.172.113.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.207.1.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.207.9.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.234.11.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.234.158.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.235.165.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.238.88.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "109.238.90.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "111.88.144.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "111.88.240.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "128.140.168.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "130.49.224.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "130.193.32.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "132.243.178.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "135.106.198.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "138.16.192.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "138.16.240.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "141.8.128.0/18",
+    "ip": ""
+  },
+  {
+    "hostname": "146.185.208.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "146.185.240.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "153.51.96.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "155.212.191.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "155.212.192.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "155.212.234.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "158.160.0.0/16",
+    "ip": ""
+  },
+  {
+    "hostname": "160.5.208.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "161.104.46.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "161.104.104.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "168.113.128.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "176.99.3.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "176.99.14.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "176.101.88.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "176.101.90.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "176.112.168.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "176.114.120.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "176.211.43.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "176.211.106.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.18.217.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.18.218.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "178.18.220.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "178.20.233.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.22.88.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "178.72.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.72.176.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.130.128.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "178.154.128.0/17",
+    "ip": ""
+  },
+  {
+    "hostname": "178.170.192.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.177.13.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.210.92.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.213.240.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "178.237.16.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "178.248.232.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "185.5.136.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.6.47.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.6.244.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.11.197.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.11.199.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.12.152.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.15.39.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.16.148.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.16.244.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.19.206.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.22.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.29.130.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.31.113.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.32.187.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.32.248.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.37.63.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.50.24.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.62.200.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.62.202.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.65.148.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.71.64.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.71.67.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.71.78.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.72.229.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.73.192.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.79.118.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.79.236.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.86.144.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.89.12.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.89.14.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.100.104.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.104.211.34",
+    "ip": ""
+  },
+  {
+    "hostname": "185.110.56.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.112.250.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.129.100.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.129.102.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.130.112.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.131.68.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.135.83.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.138.252.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.151.240.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.157.96.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.157.99.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.158.112.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.163.159.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.165.123.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.169.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.170.1.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.170.2.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.170.207.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.173.80.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.174.128.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.178.208.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.178.210.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.179.36.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.179.144.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.179.226.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.180.200.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.183.174.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "185.185.148.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.186.186.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.187.63.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.200.242.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.206.164.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.215.4.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.226.52.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.241.192.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "185.243.86.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "185.253.34.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.93.56.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "188.127.231.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.162.60.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.170.66.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.186.157.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.225.23.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.225.35.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.225.41.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.246.160.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "188.254.0.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "192.162.242.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "192.188.189.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.0.214.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.16.209.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.24.8.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.26.19.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.28.44.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.32.60.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.32.216.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "193.37.157.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.104.70.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.104.207.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.162.30.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.164.146.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.168.47.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.200.10.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.203.40.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "193.227.98.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.232.108.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.233.63.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "193.233.68.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.0.219.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.1.214.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.9.208.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "194.54.14.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "194.54.177.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.58.112.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.67.71.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.67.72.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.85.207.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.105.131.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.107.17.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.113.237.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.149.71.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.186.63.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.190.0.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.190.9.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.190.12.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.190.139.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.190.225.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.226.26.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.226.89.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.226.91.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "194.247.51.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.3.180.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.14.106.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.19.34.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.19.94.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.19.220.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.34.20.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.42.96.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.66.78.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.70.219.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.74.82.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.88.224.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.128.85.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.128.157.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.133.242.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.161.52.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.166.180.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.178.108.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.208.66.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.208.109.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.208.245.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.52.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.66.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.80.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.82.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.86.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.88.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.90.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.134.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.181.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.193.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.209.215.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.211.20.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "195.218.190.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.222.161.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.225.38.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.226.222.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.242.82.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "195.245.206.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "195.246.218.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.11.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.45.30.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.74.251.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.83.11.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.109.215.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.111.84.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "212.164.137.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.164.138.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.164.140.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.192.64.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.192.128.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.192.156.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.193.69.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.193.147.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.193.152.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "212.193.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "212.193.156.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "212.233.72.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "212.233.80.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "212.233.88.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "212.233.96.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "212.233.120.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "213.24.64.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.33.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.59.197.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.59.253.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.59.254.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.130.80.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "213.165.192.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "213.167.56.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.172.3.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.180.192.0/19",
+    "ip": ""
+  },
+  {
+    "hostname": "213.184.155.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "213.184.156.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "213.219.212.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "217.12.96.0/21",
+    "ip": ""
+  },
+  {
+    "hostname": "217.12.104.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "217.12.106.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.12.108.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.12.110.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.14.48.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "217.16.16.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "217.20.144.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "217.28.224.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "217.65.2.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "217.69.128.0/20",
+    "ip": ""
+  },
+  {
+    "hostname": "217.71.131.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.73.112.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "217.73.115.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.73.120.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "217.73.125.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.73.126.0/23",
+    "ip": ""
+  },
+  {
+    "hostname": "217.77.104.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.107.108.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.118.87.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.168.64.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.174.188.0/22",
+    "ip": ""
+  },
+  {
+    "hostname": "217.175.24.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.195.76.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.195.86.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.198.15.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.198.92.0/24",
+    "ip": ""
+  },
+  {
+    "hostname": "217.198.168.0/21",
     "ip": ""
   }
 ]
