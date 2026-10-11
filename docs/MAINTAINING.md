@@ -12,7 +12,7 @@
                                                                           (автор правит заявку → перепроверка)
                                                                           или already-covered + закрыть
 
-PR (от бота или руками) ──► update-list.yml / «Проверка»: тесты, проверка новых доменов, пробная сборка
+Любой PR ──► update-list.yml / «Проверка»: тесты, проверка новых доменов, пробная сборка
 Мерж в main ──► update-list.yml / «Сборка»: пересобирает tunneling-list.json и коммитит его
 Каждый понедельник ──► update-list.yml / «Сборка»: обновляет IP-адреса, отчёт о мёртвых доменах в Summary
 ```
@@ -111,16 +111,20 @@ Workflow сами увидят `BOT_CLIENT_ID` и переключатся на 
 
 ### Шаг 4. Защита ветки main — по желанию
 
-Если хотите, чтобы в `main` всё попадало только через PR: **Settings → Rules → Rulesets → New branch ruleset**, цель — Default branch:
+Сначала убедитесь, что App работает (шаг 6), и что проверка `Проверка` хотя бы раз запускалась на каком-нибудь PR: иначе её не найти в поиске при настройке правил.
 
-- **Restrict deletions** и **Block force pushes**;
-- **Require a pull request before merging**: 1 approval, **Require review from Code Owners** (файл `.github/CODEOWNERS` уже есть);
-- **Require status checks to pass**: `Проверка`;
+**Settings → Rules → Rulesets → New ruleset → New branch ruleset:**
+
+- **Ruleset Name:** `main`, **Enforcement status:** Active;
 - **Bypass list:**
   - ваше GitHub App — режим **Always**: иначе еженедельная сборка не сможет закоммитить `tunneling-list.json`;
-  - роль **Repository admin** — режим **For pull requests only**: чтобы вы могли мержить свои PR без второго ревьюера.
+  - роль **Repository admin** — режим **Always**, если вы и дальше пушите в `main` напрямую, или **For pull requests only**, если хотите всё вести через PR;
+- **Target branches:** Add target → **Include default branch**;
+- **Restrict deletions** и **Block force pushes**;
+- **Require a pull request before merging**: 1 approval, **Dismiss stale pull request approvals when new commits are pushed**, **Require review from Code Owners** (файл `.github/CODEOWNERS` уже есть);
+- **Require status checks to pass**: `Проверка`; «Require branches to be up to date» не включайте — PR бота устаревают после каждого автообновления списка.
 
-> ⚠️ Не включайте «Require a pull request» без GitHub App из шага 3: `GITHUB_TOKEN` не может обходить правила, и автообновление списка перестанет коммитить.
+> ⚠️ Не включайте «Require a pull request» и «Require status checks» без GitHub App из шага 3: `GITHUB_TOKEN` не может обходить правила, и автообновление списка перестанет коммитить.
 
 ### Шаг 5. Прочие настройки
 

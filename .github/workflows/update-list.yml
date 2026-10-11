@@ -10,12 +10,9 @@ on:
       - "sources/**"
       - "scripts/**"
       - ".github/workflows/update-list.yml"
+  # Без фильтра путей: «Проверка» — обязательный статус в правилах main, и PR,
+  # на котором она не запустилась, нельзя было бы смёржить.
   pull_request:
-    paths:
-      - "sources/**"
-      - "scripts/**"
-      - "tests/**"
-      - ".github/**"
 
 permissions: {}
 
