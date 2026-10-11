@@ -191,7 +191,6 @@ pgu.spb.ru
 pravo.gov.ru
 rkn.gov.ru
 rosavtodor.ru
-roseltorg.ru
 rosminzdrav.ru
 rosnedra.gov.ru
 rospatent.gov.ru
@@ -203,15 +202,38 @@ rosstat.gov.ru
 rostehnadzor.ru
 rostransnadzor.gov.ru
 rpn.gov.ru
-sberbank-ast.ru
 sfr.gov.ru
 sledcom.ru
 soc.fund
-torgi.gov.ru
 uslugi.tatarstan.ru
 vsrf.ru
-zakupki.gov.ru       # ЕИС, issue #5
 минобрнауки.рф
+# --- Госзакупки: ЕИС, Электронный бюджет и электронные площадки (issue #5)
+# Личный кабинет ЕИС и интеграционные сервисы живут на других IP, чем главная.
+zakupki.gov.ru
+lk.zakupki.gov.ru
+eruz.zakupki.gov.ru
+int.zakupki.gov.ru
+int44.zakupki.gov.ru
+torgi.gov.ru
+gisp.gov.ru
+roskazna.gov.ru
+budget.gov.ru
+lk.budget.gov.ru
+promote.budget.gov.ru
+astgoz.ru
+etpgpb.ru
+new.etpgpb.ru
+etprf.ru
+fabrikant.ru
+lot-online.ru
+gz.lot-online.ru
+roseltorg.ru
+rts-tender.ru
+sberbank-ast.ru
+tektorg.ru
+zakazrf.ru
+etp.zakazrf.ru
 
 # ==================================================================
 # 3. Маркетплейсы, магазины и доставка еды
