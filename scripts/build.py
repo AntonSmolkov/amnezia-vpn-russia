@@ -269,24 +269,56 @@ def fetch_asn_nets(asns: list[int]) -> dict[int, list[ipaddress.IPv4Network]]:
     return result
 
 
-# ---------------------------------------------------------------- сборка
+class IpClassifier:
+    """Решает, можно ли пускать адрес мимо VPN.
 
-def build(args) -> int:
+    Российский адрес — тот, что лежит в российском блоке, в подсетях наших ASN
+    или анонсируется российским ASN; такие расширяются до /widen. Адреса
+    российских анти-DDoS сервисов с зарубежной регистрацией берутся без
+    расширения: в соседних адресах живут чужие сайты. Остальное — зарубежное.
+    """
+
+    def __init__(self, asn_nets: dict[int, list[ipaddress.IPv4Network]],
+                 manual_cidrs: list[ipaddress.IPv4Network], protection_asns: set[int]):
+        log("Загружаю российские IPv4-блоки и ASN (RIPEstat)…")
+        ru_nets, self.ru_asns = ru_resources()
+        self.ru_blocks = NetSet(ru_nets)
+        self.own = NetSet([n for v in asn_nets.values() for n in v] + manual_cidrs)
+        self.protection_asns = protection_asns
+        self.protection = NetSet([n for v in fetch_asn_nets(sorted(protection_asns)).values() for n in v])
+        self.origin: dict[str, set[int]] = {}
+
+    def classify(self, ips) -> tuple[set[str], set[str]]:
+        """Возвращает (адреса для расширения до /widen, адреса только /32)."""
+        unknown = [ip for ip in ips if ip not in self.origin
+                   and ip not in self.ru_blocks and ip not in self.own and ip not in self.protection]
+        if unknown:
+            log(f"Проверяю происхождение {len(unknown)} адресов вне российских блоков…")
+            with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+                self.origin.update(zip(unknown, pool.map(origin_asns, unknown)))
+        widen, exact = set(), set()
+        for ip in ips:
+            asns = self.origin.get(ip, set())
+            if ip in self.ru_blocks or ip in self.own or asns & self.ru_asns:
+                widen.add(ip)
+            elif ip in self.protection or asns & self.protection_asns:
+                exact.add(ip)
+        return widen, exact
+
+    def describe(self, ip: str) -> str:
+        return f"{ip} (AS{','.join(map(str, sorted(self.origin.get(ip, set())))) or '?'})"
+
+
+def load_sources():
     domains = load_domains(SOURCES / "domains.txt")
     asns = load_asns(SOURCES / "asn.txt")
     protection_asns = set(load_asns(SOURCES / "protection-asn.txt"))
     manual_cidrs = load_cidrs(SOURCES / "cidr.txt")
-    log(f"Доменов: {len(domains)}, ASN: {len(asns)}, ASN защиты: {len(protection_asns)}, подсетей: {len(manual_cidrs)}")
+    return domains, asns, protection_asns, manual_cidrs
 
-    log("Загружаю российские IPv4-блоки и ASN (RIPEstat)…")
-    ru_nets, ru_asns = ru_resources()
-    ru_blocks = NetSet(ru_nets)
 
-    log("Загружаю подсети ASN…")
-    asn_nets = fetch_asn_nets(asns)
-    own_nets = NetSet([n for v in asn_nets.values() for n in v] + manual_cidrs)
-    protection = NetSet([n for v in fetch_asn_nets(sorted(protection_asns)).values() for n in v])
-
+def resolve_domains(domains: list[str], ecs: str = DEFAULT_ECS, workers: int = 16):
+    """{домен: (статус апекса, все IPv4 домена и его www.)}"""
     names = []
     for d in domains:
         names.append(d)
@@ -295,8 +327,8 @@ def build(args) -> int:
 
     log(f"Резолвлю {len(names)} имён через DoH…")
     results: dict[str, tuple[str, set[str]]] = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(resolve, n, args.ecs): n for n in names}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(resolve, n, ecs): n for n in names}
         for i, fut in enumerate(concurrent.futures.as_completed(futures), 1):
             results[futures[fut]] = fut.result()
             if i % 300 == 0:
@@ -304,46 +336,43 @@ def build(args) -> int:
 
     errors = [n for n, (st, _) in results.items() if st == "error"]
     if len(errors) > len(names) * 0.1:
-        raise SystemExit(f"Не удалось резолвить {len(errors)} имён — похоже на сбой сети, файл не записан")
+        raise SystemExit(f"Не удалось резолвить {len(errors)} имён — похоже на сбой сети")
 
-    domain_ips: dict[str, set[str]] = {}
+    out = {}
     for d in domains:
-        ips = set(results[d][1])
+        status, ips = results[d]
+        ips = set(ips)
         if not d.startswith("www."):
             ips |= results["www." + d][1]
-        domain_ips[d] = ips
+        out[d] = (status, ips)
+    return out
 
-    # Российский адрес — тот, что лежит в российском блоке, в подсетях наших
-    # ASN или анонсируется российским ASN; такие расширяем до /widen.
-    # Адреса российских анти-DDoS сервисов с зарубежной регистрацией берём
-    # без расширения: в соседних адресах живут чужие сайты.
-    all_ips = set().union(*domain_ips.values())
-    unknown = [ip for ip in all_ips if ip not in ru_blocks and ip not in own_nets and ip not in protection]
-    log(f"Проверяю происхождение {len(unknown)} адресов вне российских блоков…")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-        origin = dict(zip(unknown, pool.map(origin_asns, unknown)))
 
-    widen_ips, exact_ips = set(), set()
-    for ip in all_ips:
-        if ip in ru_blocks or ip in own_nets or origin.get(ip, set()) & ru_asns:
-            widen_ips.add(ip)
-        elif ip in protection or origin.get(ip, set()) & protection_asns:
-            exact_ips.add(ip)
+# ---------------------------------------------------------------- сборка
+
+def build(args) -> int:
+    domains, asns, protection_asns, manual_cidrs = load_sources()
+    log(f"Доменов: {len(domains)}, ASN: {len(asns)}, ASN защиты: {len(protection_asns)}, подсетей: {len(manual_cidrs)}")
+
+    log("Загружаю подсети ASN…")
+    asn_nets = fetch_asn_nets(asns)
+    classifier = IpClassifier(asn_nets, manual_cidrs, protection_asns)
+
+    resolved = resolve_domains(domains, args.ecs, args.workers)
+    widen_ips, exact_ips = classifier.classify(set().union(*(ips for _, ips in resolved.values())))
     allowed = widen_ips | exact_ips
 
     report = {"nxdomain": [], "nodata": [], "servfail": [], "error": [], "foreign_only": [], "foreign_dropped": {}}
     entries = []
     for d in domains:
-        ips = domain_ips[d]
+        status, ips = resolved[d]
         if not ips:
-            report[results[d][0] if results[d][0] in report else "nodata"].append(d)
+            report[status if status in report else "nodata"].append(d)
             continue
         kept = sorted(ips & allowed, key=ipaddress.IPv4Address)
         dropped = sorted(ips - allowed, key=ipaddress.IPv4Address)
         if dropped:
-            report["foreign_dropped"][d] = [
-                f"{ip} (AS{','.join(map(str, sorted(origin.get(ip, set())))) or '?'})" for ip in dropped
-            ]
+            report["foreign_dropped"][d] = [classifier.describe(ip) for ip in dropped]
         if not kept:
             report["foreign_only"].append(d)
             continue

@@ -14,24 +14,76 @@ on:
     paths:
       - "sources/**"
       - "scripts/**"
+      - "tests/**"
+      - ".github/**"
 
-permissions:
-  contents: write
-
-concurrency:
-  group: update-list
-  cancel-in-progress: false
+permissions: {}
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  # Pull request: тесты, проверка новых доменов и пробная сборка. Ничего не коммитит.
+  check:
+    name: Проверка
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          python-version: "3.12"
+          persist-credentials: false
+          fetch-depth: 0
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.13"
+
+      - name: Тесты
+        run: python -m unittest discover -s tests
+
+      - name: Новые домены
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: python scripts/domain_checks.py --base-ref "origin/$BASE_REF"
+
+      - name: Пробная сборка
+        run: |
+          python scripts/build.py --output "$RUNNER_TEMP/list.json" --subnets "$RUNNER_TEMP/subnets.txt" \
+            --report build-report.md
+          cat build-report.md >> "$GITHUB_STEP_SUMMARY"
+
+  # main и расписание: сборка и коммит tunneling-list.json.
+  build:
+    name: Сборка
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    concurrency:
+      group: update-list
+      cancel-in-progress: false
+    steps:
+      # Если main защищён правилами, пушить может только GitHub App из списка исключений.
+      - name: Токен GitHub App
+        id: app-token
+        if: vars.BOT_CLIENT_ID != ''
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          client-id: ${{ vars.BOT_CLIENT_ID }}
+          private-key: ${{ secrets.BOT_PRIVATE_KEY }}
+          permission-contents: write
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          token: ${{ steps.app-token.outputs.token || github.token }}
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.13"
+
+      - name: Тесты
+        run: python -m unittest discover -s tests
 
       - name: Сборка tunneling-list.json
         run: python scripts/build.py --report build-report.md
@@ -42,7 +94,6 @@ jobs:
           if [ -f build-report.md ]; then cat build-report.md >> "$GITHUB_STEP_SUMMARY"; fi
 
       - name: Коммит изменений
-        if: github.event_name != 'pull_request'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

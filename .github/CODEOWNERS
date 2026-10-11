@@ -1,0 +1,9 @@
+# Любое изменение требует ревью владельца, если в правилах ветки main включено
+# «Require review from Code Owners». Автоматизация и правила бота указаны явно.
+*                               @kozlovartem20201
+
+/.github/                       @kozlovartem20201
+/scripts/                       @kozlovartem20201
+/tests/                         @kozlovartem20201
+/sources/asn.txt                @kozlovartem20201
+/sources/protection-asn.txt     @kozlovartem20201
