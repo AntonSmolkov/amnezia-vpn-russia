@@ -71,9 +71,13 @@ jobs:
           private-key: ${{ secrets.BOT_PRIVATE_KEY }}
           permission-contents: write
 
+      # ref: свежая вершина ветки на момент старта (после ожидания в очереди),
+      # а не коммит, на котором запуск был создан.
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           token: ${{ steps.app-token.outputs.token || github.token }}
+          ref: ${{ github.ref }}
+          fetch-depth: 0
 
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
@@ -100,4 +104,9 @@ jobs:
             exit 0
           fi
           git commit -m "Автообновление списка $(date -u +%Y-%m-%d)"
-          git push
+          # Пока шла сборка, в ветку мог прийти чужой коммит — перенесёмся поверх него.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase origin "$GITHUB_REF_NAME" || exit 1
+          done
+          exit 1
