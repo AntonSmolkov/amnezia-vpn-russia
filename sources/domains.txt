@@ -111,6 +111,7 @@ vtbleasing.ru
 webmoney.ru
 yoomoney.ru
 zenit.ru
+e-disclosure.ru      # issue #6
 
 # ==================================================================
 # 2. Госуслуги и госорганы
